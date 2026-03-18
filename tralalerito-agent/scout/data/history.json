@@ -376,6 +376,59 @@
           ]
         }
       ]
+    },
+    {
+      "generatedAt": "2026-03-18T20:43:32.122Z",
+      "summary": "Tralalerito wants to peek at frens who make shiny bubbles nap but still play, discover super clever wallet caves, and find frens who make secret hiding spots for bubbles!",
+      "focus": "deeper ecosystem exploration",
+      "generatedIds": [
+        "watching-frens-take-naps-with-their-shiny-bubbles-and-still-play",
+        "peeking-at-frens-super-smart-wallet-caves",
+        "finding-frens-who-make-secret-hiding-spots-for-bubbles"
+      ],
+      "generatedTitles": [
+        "Watching Frens Take Naps with Their Shiny Bubbles and Still Play!",
+        "Peeking at Frens' Super Smart Wallet Caves!",
+        "Finding Frens Who Make Secret Hiding Spots for Bubbles!"
+      ],
+      "missionCount": 3,
+      "webSignals": [
+        {
+          "label": "solana builders",
+          "query": "Solana builders community projects",
+          "topUrls": [
+            "https://solana.com/community",
+            "https://solana.com/events",
+            "https://solana.org/grants-funding"
+          ]
+        },
+        {
+          "label": "solana education",
+          "query": "Solana education tutorials community",
+          "topUrls": [
+            "https://solana.com/developers/guides",
+            "https://solana.tutorial.app/",
+            "https://solanacompass.com/projects/category/community/education"
+          ]
+        },
+        {
+          "label": "solana memes",
+          "query": "Solana meme community creative projects",
+          "topUrls": [
+            "https://medium.com/@bowhowdy/lessons-in-community-building-on-solana-memecoins-nfts-f09145ff116f",
+            "https://www.ledger.com/academy/topics/crypto/top-solana-memecoins"
+          ]
+        },
+        {
+          "label": "focus",
+          "query": "Solana deeper ecosystem exploration",
+          "topUrls": [
+            "https://www.mexc.com/learn/article/solana-ecosystem-explained-projects-coins-and-how-it-works/1",
+            "https://explore.st-aug.edu/exp/solanas-hottest-new-projects-a-deep-dive-into-the-ecosystems-next-wave",
+            "https://medium.com/@thacryptoPROF/the-solana-ecosystem-exploration-fdefddb5f291"
+          ]
+        }
+      ]
     }
   ]
 }

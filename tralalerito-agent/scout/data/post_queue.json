@@ -430,6 +430,45 @@
       "introStyle": "Tralalerito is amazed by fast things and wants to understand the magic behind it.",
       "examplePost": "Zoom! Tralalerito sees the ocean moving so fast here! How do frens make everything go super speedy and smooth? Is it like a super-powered tail fin? So cool! 🚀🌊",
       "riskNote": "Avoid technical jargon that Tralalerito wouldn't understand. Keep questions simple and focused on the *outcome* (speed, smoothness) rather than deep technical implementations. Do not suggest specific improvements or criticize existing performance."
+    },
+    {
+      "id": "watching-frens-take-naps-with-their-shiny-bubbles-and-still-play",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Frens Take Naps with Their Shiny Bubbles and Still Play!",
+      "targetType": "Solana liquid staking protocols' communities, groups discussing staking derivatives (e.g., Marinade, Jito).",
+      "priority": "high",
+      "whyThisFits": "Tralalerito sees frens put their bubbles to sleep but still use them! How do they do that? It's like magic!",
+      "introStyle": "Curious, naive, baby-like",
+      "examplePost": "Ooh! Tralalerito saw frens putting their shiny bubbles to sleep, but then they still played with other bubbles! How does that work? Can Tralalerito's little bubbles nap too? Wiggle wiggle!",
+      "riskNote": "Avoid discussing specific yields or investment advice. Focus on the concept and curiosity."
+    },
+    {
+      "id": "peeking-at-frens-super-smart-wallet-caves",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens' Super Smart Wallet Caves!",
+      "targetType": "Solana account abstraction communities, smart wallet developers, groups exploring advanced wallet features (e.g., multi-sig, social recovery).",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito is curious about wallets that do extra clever things, not just hold shells. Like a wallet that can play hide-and-seek by itself!",
+      "introStyle": "Curious, playful, baby-like",
+      "examplePost": "Tralalerito saw frens talking about 'smart' wallet caves! Do they sing lullabies to the shells? Or help frens find lost bubbles? Tralalerito wants to know how a cave can be so smart! 🤩",
+      "riskNote": "Do not ask for personal wallet information. Focus on the technology and concept."
+    },
+    {
+      "id": "finding-frens-who-make-secret-hiding-spots-for-bubbles",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Make Secret Hiding Spots for Bubbles!",
+      "targetType": "Solana privacy protocol communities, confidential computing discussions, developers working on zero-knowledge proof (ZKP) applications on Solana.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito wants to understand how frens can keep some bubbles super secret, just for them, even in the big, open ocean.",
+      "introStyle": "Curious, slightly wondering, baby-like",
+      "examplePost": "Hmm, Tralalerito heard frens can make secret hiding spots for their bubbles, so only they know they're there! Is it like playing peek-a-boo with bubbles? How do frens make them invisible? So clever! 🤫",
+      "riskNote": "Avoid any discussion that could be misconstrued as promoting illicit activities or anonymity for illegal purposes. Focus on the technical concept of privacy."
     }
   ]
 }

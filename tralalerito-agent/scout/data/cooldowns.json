@@ -35,7 +35,10 @@
     "Watching Frens Make the Ocean Zoom Faster!": "2026-03-19T20:35:32.915Z",
     "Watching Frens Share Their Shiny Bubbles and Get Them Back!": "2026-03-19T20:43:00.890Z",
     "Peeking at Frens Who Swap Shiny Shells Super Fast!": "2026-03-19T20:43:00.891Z",
-    "Peeking at Frens Who Make Super-Duper Easy Builder Tools!": "2026-03-19T20:43:00.891Z"
+    "Peeking at Frens Who Make Super-Duper Easy Builder Tools!": "2026-03-19T20:43:00.891Z",
+    "Watching Frens Take Naps with Their Shiny Bubbles and Still Play!": "2026-03-19T20:43:32.122Z",
+    "Peeking at Frens' Super Smart Wallet Caves!": "2026-03-19T20:43:32.122Z",
+    "Finding Frens Who Make Secret Hiding Spots for Bubbles!": "2026-03-19T20:43:32.122Z"
   },
   "targetTypes": {
     "Solana wallet communities, user support forums for wallets, communities discussing self-custody.": "2026-03-19T00:52:28.075Z",
@@ -67,6 +70,9 @@
     "Solana core development communities, forums discussing network upgrades, scaling solutions, transaction processing optimizations, or validator performance beyond just network health.": "2026-03-19T08:35:32.915Z",
     "Solana DeFi lending and borrowing protocols' communities, liquidity provider groups.": "2026-03-19T08:43:00.891Z",
     "Solana DEX (Decentralized Exchange) communities, automated market maker (AMM) discussion groups.": "2026-03-19T08:43:00.891Z",
-    "Solana developer tooling communities, SDK/API discussions, integrated development environments (IDEs) for Solana.": "2026-03-19T08:43:00.891Z"
+    "Solana developer tooling communities, SDK/API discussions, integrated development environments (IDEs) for Solana.": "2026-03-19T08:43:00.891Z",
+    "Solana liquid staking protocols' communities, groups discussing staking derivatives (e.g., Marinade, Jito).": "2026-03-19T08:43:32.122Z",
+    "Solana account abstraction communities, smart wallet developers, groups exploring advanced wallet features (e.g., multi-sig, social recovery).": "2026-03-19T08:43:32.122Z",
+    "Solana privacy protocol communities, confidential computing discussions, developers working on zero-knowledge proof (ZKP) applications on Solana.": "2026-03-19T08:43:32.122Z"
   }
 }
