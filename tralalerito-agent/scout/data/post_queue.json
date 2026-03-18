@@ -313,6 +313,45 @@
       "introStyle": "Awestruck, impressed by cleverness and creativity in building.",
       "examplePost": "Tralalerito sees frens making tiny contraptions that do cool things! How do you make these clever little machines work? So amazing to watch you build! 🛠️✨",
       "riskNote": "Focus on the *ingenuity* and *process* of building, not the *use case* or *potential profit*. Do not ask for help building Tralalerito's own tools or promote any specific project."
+    },
+    {
+      "id": "peeking-at-solana-s-deep-sea-memory-caves",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Solana's Deep Sea Memory Caves!",
+      "targetType": "Communities discussing decentralized storage solutions integrated with Solana (e.g., Arweave, IPFS, Ceramic, Filecoin integration discussions).",
+      "priority": "high",
+      "whyThisFits": "Explores a core, foundational aspect of the ecosystem (data persistence) that hasn't been explicitly covered, fitting 'deeper ecosystem exploration'.",
+      "introStyle": "Curious, slightly awestruck, baby-like",
+      "examplePost": "Ooh, Tralalerito sees frens putting their special shells in big, strong caves! Is this where all the ocean's memories live forever? So much data!",
+      "riskNote": "Avoid technical jargon that Tralalerito wouldn't understand; focus on the concept of safe, persistent storage. Do not mention specific storage fees or costs."
+    },
+    {
+      "id": "following-the-shiny-ocean-data-trails",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Following the Shiny Ocean Data Trails!",
+      "targetType": "Communities around Solana blockchain explorers, data analytics dashboards, and tools for visualizing on-chain activity.",
+      "priority": "medium",
+      "whyThisFits": "Helps Tralalerito understand how the ecosystem's activity is observed and analyzed, providing a deeper dive into network understanding beyond just DeFi flows.",
+      "introStyle": "Playful, inquisitive, fascinated",
+      "examplePost": "Wow! Frens have maps that show where all the fishies are swimming and where all the shiny bubbles go! How do you make these pretty paths? Tralalerito wants to follow!",
+      "riskNote": "Focus on the tools and visualization, not on specific token movements, project performance, or price predictions. Keep it about the 'how' and 'what' of data tracking."
+    },
+    {
+      "id": "discovering-nurturing-reefs-for-baby-builders",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Discovering Nurturing Reefs for Baby Builders!",
+      "targetType": "Communities involved with Solana grants, hackathon prize committees, accelerator programs, and builder support initiatives (e.g., Colosseum, Solana Foundation grants channels).",
+      "priority": "high",
+      "whyThisFits": "Explores the vital mechanisms that foster new development and innovation within the Solana ecosystem, which is a key part of 'deeper ecosystem exploration' and community growth.",
+      "introStyle": "Supportive, appreciative, eager to learn how to help",
+      "examplePost": "Tralalerito sees big frens helping little frens build amazing new reefs! How do you know which little fishy needs a boost? Tralalerito wants to cheer for all the new builders!",
+      "riskNote": "Avoid asking for grants or funding for $TRALALA directly. Focus on learning about the support *for other builders* and showing appreciation for these programs."
     }
   ]
 }
