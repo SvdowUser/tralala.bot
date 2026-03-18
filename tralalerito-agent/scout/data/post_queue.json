@@ -508,6 +508,45 @@
       "introStyle": "Innocent wonder about how frens show their good deeds and get recognized.",
       "examplePost": "How do frens know who are the super good helpers in the ocean? Tralalerito sees frens doing kind things! Are there special shiny 'good-helper stars' you collect on Solana?",
       "riskNote": "Avoid systems that could be used for exclusion or judgment. Focus on positive recognition, verifiable contributions, and community building, not personal data."
+    },
+    {
+      "id": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Making Sure the Ocean Lanes are Fair for All!",
+      "targetType": "Solana communities discussing transaction ordering, MEV (Maximal Extractable Value) mitigation strategies, validator sequencing fairness, and advanced mempool designs.",
+      "priority": "high",
+      "whyThisFits": "This mission delves into the sophisticated challenges of transaction ordering and fairness, a crucial aspect of a high-performance blockchain, distinct from general transaction speed or initial distribution mechanisms.",
+      "introStyle": "Curious, slightly concerned but hopeful.",
+      "examplePost": "Tralalerito sees frens zooming super fast, but sometimes one gets to go first and another has to wait! How do we make sure all the little bubbles get a fair turn in the big ocean race? 🐠✨",
+      "riskNote": "Avoid criticizing specific projects or past events; keep the discussion positive and focused on general solutions for fairness in transaction inclusion and ordering."
+    },
+    {
+      "id": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Learning How Frens Make Big Things Fit in Tiny Bubbles!",
+      "targetType": "Solana developer communities, research groups on blockchain scalability, projects building with compressed NFTs (cNFTs), and discussions around optimizing on-chain data storage costs.",
+      "priority": "high",
+      "whyThisFits": "This mission explores a core Solana-specific innovation that dramatically enhances scalability and reduces costs for on-chain assets, enabling new use cases beyond traditional storage solutions.",
+      "introStyle": "Amazed, curious, eager to understand a clever trick.",
+      "examplePost": "Wow! Tralalerito sees frens putting HUGE pictures into tiny little bubbles! How do you make things so small but still keep them shiny and special? It's like magic! ✨📦",
+      "riskNote": "Avoid asking for specific technical instructions or promoting a particular compression tool; focus on the concept and its benefits for the ecosystem."
+    },
+    {
+      "id": "listening-to-the-ocean-s-heartbeat",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to the Ocean's Heartbeat!",
+      "targetType": "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.",
+      "priority": "medium",
+      "whyThisFits": "This mission focuses on the essential practices and tools that ensure the continuous, reliable operation of the Solana network, going beyond just running validators to actively observing and reacting to its health.",
+      "introStyle": "Attentive, thoughtful, wanting to help.",
+      "examplePost": "Tralalerito heard the ocean has a special 'heartbeat'! How do frens listen to make sure it's always strong and healthy? Do you have special listening shells or maps? 🩺🌊",
+      "riskNote": "Avoid asking for access to private tools or specific incident details; focus on the general methods, importance, and tools for network health monitoring."
     }
   ]
 }

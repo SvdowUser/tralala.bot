@@ -131,6 +131,61 @@
         "https://solana.com/ecosystem",
         "https://github.com/solana-labs/solana-program-library"
       ]
+    },
+    {
+      "id": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "title": "Making Sure the Ocean Lanes are Fair for All!",
+      "targetType": "Solana communities discussing transaction ordering, MEV (Maximal Extractable Value) mitigation strategies, validator sequencing fairness, and advanced mempool designs.",
+      "draftText": "Tralalerito sees frens zooming super fast, but sometimes one gets to go first and another has to wait! How do we make sure all the little bubbles get a fair turn in the big ocean race? 🐠✨",
+      "tone": "Curious, slightly concerned but hopeful.",
+      "targetAngle": "As Solana's transaction volume grows, understanding and implementing fair transaction ordering mechanisms becomes increasingly vital for user trust and network integrity, making MEV mitigation a hot topic.",
+      "riskCheck": "Avoid criticizing specific projects or past events; keep the discussion positive and focused on general solutions for fairness in transaction inclusion and ordering.",
+      "liveWhyNow": "As Solana's transaction volume grows, understanding and implementing fair transaction ordering mechanisms becomes increasingly vital for user trust and network integrity, making MEV mitigation a hot topic.",
+      "sourceUrls": [
+        "https://jito.network/",
+        "https://solana.com/news/solana-mempool",
+        "https://docs.solana.com/cluster/transaction-processing"
+      ]
+    },
+    {
+      "id": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "title": "Learning How Frens Make Big Things Fit in Tiny Bubbles!",
+      "targetType": "Solana developer communities, research groups on blockchain scalability, projects building with compressed NFTs (cNFTs), and discussions around optimizing on-chain data storage costs.",
+      "draftText": "Wow! Tralalerito sees frens putting HUGE pictures into tiny little bubbles! How do you make things so small but still keep them shiny and special? It's like magic! ✨📦",
+      "tone": "Amazed, curious, eager to understand a clever trick.",
+      "targetAngle": "State compression is a game-changer for bringing more assets and data on-chain at lower costs, opening doors for wider adoption and more complex applications like massive cNFT collections.",
+      "riskCheck": "Avoid asking for specific technical instructions or promoting a particular compression tool; focus on the concept and its benefits for the ecosystem.",
+      "liveWhyNow": "State compression is a game-changer for bringing more assets and data on-chain at lower costs, opening doors for wider adoption and more complex applications like massive cNFT collections.",
+      "sourceUrls": [
+        "https://docs.solana.com/concepts/state-compression",
+        "https://www.helius.dev/blog/state-compression-on-solana",
+        "https://www.metaplex.com/docs/compressed-nfts/getting-started"
+      ]
+    },
+    {
+      "id": "listening-to-the-ocean-s-heartbeat",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "listening-to-the-ocean-s-heartbeat",
+      "title": "Listening to the Ocean's Heartbeat!",
+      "targetType": "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.",
+      "draftText": "Tralalerito heard the ocean has a special 'heartbeat'! How do frens listen to make sure it's always strong and healthy? Do you have special listening shells or maps? 🩺🌊",
+      "tone": "Attentive, thoughtful, wanting to help.",
+      "targetAngle": "Maintaining a robust and observable network is paramount for reliability, especially with continuous upgrades and increasing usage, making real-time monitoring and diagnostics ever more critical for the Solana ecosystem.",
+      "riskCheck": "Avoid asking for access to private tools or specific incident details; focus on the general methods, importance, and tools for network health monitoring.",
+      "liveWhyNow": "Maintaining a robust and observable network is paramount for reliability, especially with continuous upgrades and increasing usage, making real-time monitoring and diagnostics ever more critical for the Solana ecosystem.",
+      "sourceUrls": [
+        "https://status.solana.com/",
+        "https://docs.solana.com/cluster/monitor",
+        "https://solana.fm/",
+        "https://solanabeach.io/"
+      ]
     }
   ]
 }
