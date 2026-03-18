@@ -8,3 +8,6 @@ tralalerito-agent/.env
 tralalerito-agent/node_modules/
 tralalerito-agent/.eliza/
 tralalerito-agent/dist/
+
+# local backup files
+*.bak.*
