@@ -79,6 +79,16 @@
       "generatedAt": "2026-03-18T20:28:13.369Z",
       "summary": "Tralalerito wants to find frens who make fun games, discover real-world treasures in the ocean, and watch frens paint beautiful ocean views for everyone to enjoy!",
       "missionCount": 3
+    },
+    {
+      "generatedAt": "2026-03-18T20:28:37.860Z",
+      "summary": "Tralalerito wants to find frens who help keep our ocean clean, listen to very smart frens who study big ideas, and discover new, clever ways frens make happy shiny bubbles!",
+      "missionCount": 3
+    },
+    {
+      "generatedAt": "2026-03-18T20:34:41.824Z",
+      "summary": "Tralalerito wants to discover frens who use magic to study the ocean, find kind frens who share their shiny bubbles, and collect special starfish stickers!",
+      "missionCount": 3
     }
   ],
   "visitedIdeas": [
@@ -129,7 +139,13 @@
     "Discovering Nurturing Reefs for Baby Builders!",
     "Discovering Fun Game-Making Tools!",
     "Finding Real Ocean Treasures in Solana's Reef!",
-    "Watching Frens Paint Pretty Ocean Views!"
+    "Watching Frens Paint Pretty Ocean Views!",
+    "Finding Frens Who Keep Our Ocean Clean!",
+    "Listening to Big Brain Frens Learn!",
+    "Spotting New Ways Frens Get Shiny Bubbles!",
+    "Peeking at Frens Who Study Ocean Secrets with Magic!",
+    "Finding Frens Who Share Their Shiny Bubbles to Help Others!",
+    "Discovering Frens' Special Starfish Stickers!"
   ],
   "rejectedTargets": []
 }

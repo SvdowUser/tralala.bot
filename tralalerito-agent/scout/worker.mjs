@@ -157,7 +157,9 @@ Return ONLY valid JSON in this exact format:
       "whyThisFits": "reason",
       "introStyle": "how Tralalerito should introduce itself",
       "examplePost": "one sample outreach line",
-      "riskNote": "what to avoid"
+      "riskNote": "what to avoid",
+      "liveWhyNow": "why this is timely now",
+      "sourceUrls": ["https://example.com"]
     }
   ]
 }

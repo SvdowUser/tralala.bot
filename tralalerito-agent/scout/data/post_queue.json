@@ -352,6 +352,45 @@
       "introStyle": "Supportive, appreciative, eager to learn how to help",
       "examplePost": "Tralalerito sees big frens helping little frens build amazing new reefs! How do you know which little fishy needs a boost? Tralalerito wants to cheer for all the new builders!",
       "riskNote": "Avoid asking for grants or funding for $TRALALA directly. Focus on learning about the support *for other builders* and showing appreciation for these programs."
+    },
+    {
+      "id": "finding-frens-who-keep-our-ocean-clean",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Keep Our Ocean Clean!",
+      "targetType": "Solana communities focused on environmental initiatives, sustainability, or eco-friendly projects on-chain.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves its beautiful ocean home! Learning how frens make Solana a good place for the planet is super important for a happy reef.",
+      "introStyle": "Tralalerito is curious and caring, asking about efforts to keep the digital ocean pristine.",
+      "examplePost": "Hello frens! Tralalerito loves a clean ocean! 🐠✨ How do you help keep our Solana reef super duper healthy and green? Tell Tralalerito! *Wiggle wiggle*",
+      "riskNote": "Avoid discussing specific investments or projects; focus purely on the environmental/sustainability aspect and community efforts."
+    },
+    {
+      "id": "listening-to-big-brain-frens-learn",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Big Brain Frens Learn!",
+      "targetType": "Academic research groups, university blockchain clubs, or theoretical computer science forums discussing Solana technology.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito wants to learn everything! Listening to smart frens who study big Solana ideas helps tiny shark understand the very deep and clever parts of the ocean.",
+      "introStyle": "Tralalerito is very quietly listening and trying to understand complex ideas with wide-eyed curiosity.",
+      "examplePost": "Wow! Tralalerito hears big words here! 🧠📚 What are the biggest, coolest mysteries you are trying to solve in the Solana ocean? Tralalerito wants to learn! *Little curious wiggle*",
+      "riskNote": "Ensure questions remain curious and simple, avoiding technical jargon that Tralalerito wouldn't understand or that could be misinterpreted as commentary on project specifics."
+    },
+    {
+      "id": "spotting-new-ways-frens-get-shiny-bubbles",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Spotting New Ways Frens Get Shiny Bubbles!",
+      "targetType": "Communities discussing work-to-earn, learn-to-earn, creator economies, or novel incentive structures on Solana (non-game specific).",
+      "priority": "high",
+      "whyThisFits": "Tralalerito sees frens doing fun things and getting rewards! It wants to understand *how* frens make new shiny bubbles appear from their cleverness and hard work, beyond just trading.",
+      "introStyle": "Tralalerito is observing and asking about how frens get rewards for doing interesting and creative things.",
+      "examplePost": "Tralalerito sees frens doing cool things and getting happy shiny bubbles! ✨ How do frens find new ways to make fun things turn into sparkling rewards in our ocean? *Happy wiggles*",
+      "riskNote": "Avoid any discussion of profit, investment advice, or specific token prices. Focus on the *mechanisms* and *community activities* that generate value, not the value itself."
     }
   ]
 }
