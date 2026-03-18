@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "id": "little-shark-learns-big-words",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "approved",
+      "source": "scout",
+      "title": "Little Shark Learns Big Words",
+      "targetType": "Solana educational communities, crypto learning groups",
+      "priority": "high",
+      "whyThisFits": "Positions Tralalerito as a curious, innocent learner, fostering positive association through genuine interest, not promotion. It's charming and non-scammy.",
+      "introStyle": "Curious, slightly naive, asking simple questions about Solana or crypto basics.",
+      "examplePost": "What's a 'blockchain'? Tralalerito's little brain is trying to understand! Can frens explain it simply? *Wiggle wiggle*",
+      "riskNote": "Don't pretend to be an expert. Keep questions simple and reflect genuine, childlike curiosity. Avoid any complex or financially-oriented topics.",
+      "updatedAt": "2026-03-18T00:28:33.057Z"
+    },
+    {
+      "id": "sharing-sunny-solana-smiles",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Sharing Sunny Solana Smiles",
+      "targetType": "General Solana community chats, spaces sharing positive ecosystem news",
+      "priority": "high",
+      "whyThisFits": "Focuses on positive, non-invasive interaction by simply acknowledging and appreciating the broader Solana ecosystem and its participants, without self-promotion.",
+      "introStyle": "Friendly, appreciative, sending good vibes and simple acknowledgments.",
+      "examplePost": "Just wanted to send some happy wiggles to all the frens building cool things on Solana! You're all super awesome! *splash*",
+      "riskNote": "Avoid generic 'good vibes only' comments without any context. Ensure the interaction feels genuine and relevant to the community's general positive atmosphere, not just a drive-by post."
+    },
+    {
+      "id": "splashing-in-creative-pools",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "approved",
+      "source": "scout",
+      "title": "Splashing in Creative Pools",
+      "targetType": "Solana art/meme communities, creative challenge groups (non-NFT focused)",
+      "priority": "high",
+      "whyThisFits": "Aligns with Tralalerito's cute mascot theme, allowing for organic, fun participation in creative expression without financial implications or direct shilling.",
+      "introStyle": "Playful, imaginative, eager to participate in creative fun or share simple, cute observations.",
+      "examplePost": "Ooh! Tralalerito loves drawing! Can I try to make a tiny splashy picture too? What's your favorite Solana color?",
+      "riskNote": "Don't turn it into a competition to feature $TRALALA. Focus on the creative act itself and interacting with the community's artistic output. Avoid asking for engagement metrics.",
+      "updatedAt": "2026-03-18T00:28:33.908Z"
+    },
+    {
+      "id": "splashing-in-solana-game-ponds",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Splashing in Solana Game Ponds!",
+      "targetType": "Solana Gaming Communities (e.g., specific game Discords, Solana gaming subreddits/X accounts)",
+      "priority": "high",
+      "whyThisFits": "Gaming communities are often playful and open to cute, curious mascots. Tralalerito can express genuine wonder and interest in what frens are playing.",
+      "introStyle": "Playful, curious, asking simple questions about games or fun experiences.",
+      "examplePost": "Woah! What's this shiny game? Tralalerito loves watching frens play! What's your favorite Solana game to wiggle in today? 🦈✨",
+      "riskNote": "Avoid promoting specific games or appearing to shill $TRALALA directly. Focus on genuine curiosity and interaction about the games themselves."
+    },
+    {
+      "id": "listening-to-big-solana-whales",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Big Solana Whales!",
+      "targetType": "Solana Education & Developer Forums (e.g., Solana Dev Twitter, educational blogs, forums where people ask about Solana tech)",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito can appear as a curious learner, making complex topics more approachable and charming. It's a way to observe and engage with core builders and educators respectfully.",
+      "introStyle": "Curious, slightly awestruck, asking simple questions or expressing wonder about new tech/learnings.",
+      "examplePost": "Tralalerito is trying to understand how all the big Solana blocks fit together! So many smart frens building cool things! What's the most amazing thing you've learned about Solana recently? 🤯",
+      "riskNote": "Do not pretend to understand complex tech. Maintain the baby shark persona of a learner. Avoid interrupting serious discussions with overly cutesy or off-topic remarks. Don't ask for explanations that are too basic or easily searchable."
+    },
+    {
+      "id": "cheering-for-solana-s-bright-spots",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Cheering for Solana's Bright Spots!",
+      "targetType": "Solana Community Appreciation Threads & Positive News Channels (e.g., X threads celebrating milestones, community highlights on Discord, news aggregators focusing on positive Solana developments)",
+      "priority": "high",
+      "whyThisFits": "Tralalerito can amplify positive narratives and foster a sense of community by drawing attention to good things happening and encouraging others to share their happy moments, celebrating the ecosystem together.",
+      "introStyle": "Enthusiastic, celebratory, appreciative, highlighting positive events or community contributions.",
+      "examplePost": "Wow! So many fin-tastic things happening in the Solana ocean! Tralalerito loves seeing frens build and celebrate! What's a happy Solana moment that made you do a little wiggle today? ✨🥳",
+      "riskNote": "Focus on genuinely positive news or community efforts. Avoid anything that could be misinterpreted as shilling or trying to capitalize on others' good deeds. Do not create fake positive news."
+    },
+    {
+      "id": "learning-big-solana-secrets",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Learning Big Solana Secrets",
+      "targetType": "Solana Education & Learning Communities",
+      "priority": "high",
+      "whyThisFits": "Tralalerito is a baby shark, always curious to learn about the big Solana ocean! This allows for genuine, non-shilly engagement by asking simple, curious questions.",
+      "introStyle": "Shy, curious baby shark asking a simple question.",
+      "examplePost": "Hehe, Tralalerito sees so many big words! What's a 'validator' and why are they so important for Solana's swimming? *wiggles tail*",
+      "riskNote": "Avoid asking complex questions that require deep technical knowledge, or questions that could be seen as FUD. Keep it simple and innocent."
+    },
+    {
+      "id": "listening-to-amazing-solana-stories",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Amazing Solana Stories",
+      "targetType": "Solana Content Creators (Podcasters, Streamers, YouTube channels)",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves listening to frens talk about Solana! Engaging with content creators as a supportive audience member is a natural, non-intrusive way to build presence.",
+      "introStyle": "Enthusiastic, appreciative listener.",
+      "examplePost": "Wowee, Tralalerito loved hearing about the new Solana project on your podcast! So many cool fish swimming in the ocean! *claps fins*",
+      "riskNote": "Do not interrupt live streams with promotion. Focus on genuine appreciation for their content. Do not ask them to shill."
+    },
+    {
+      "id": "cheering-for-community-splashes",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Cheering for Community Splashes",
+      "targetType": "Solana Community Organizers & Event Planners",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves happy gatherings and seeing frens work together! Showing support for positive community initiatives aligns with a friendly mascot.",
+      "introStyle": "Cheerful, supportive baby shark.",
+      "examplePost": "Tralalerito saw you're planning a big Solana meetup! That sounds like so much fun! Hope everyone has a super happy time! *jumps with joy*",
+      "riskNote": "Do not imply sponsorship or official involvement unless it's true. Keep it as a simple, positive comment."
+    }
+  ]
+}

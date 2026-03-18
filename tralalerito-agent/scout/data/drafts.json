@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "little-shark-learns-big-words",
+      "createdAt": "2026-03-18T00:34:32.189Z",
+      "status": "draft",
+      "sourceMissionId": "little-shark-learns-big-words",
+      "title": "Little Shark Learns Big Words",
+      "targetType": "Solana educational communities, crypto learning groups",
+      "draftText": "What is a 'wallet'? Tralalerito hear big frens talk. Is it a cozy cave for special seashells? 🥺🐚 Help tiny shark understand! *Wiggle wiggle*",
+      "tone": "Curious, naive, baby-like",
+      "targetAngle": "Beginner crypto education, basic Solana concepts for new learners",
+      "riskCheck": "Ensures questions are simple, avoids financial topics, maintains innocent persona."
+    },
+    {
+      "id": "splashing-in-creative-pools",
+      "createdAt": "2026-03-18T00:34:36.700Z",
+      "status": "draft",
+      "sourceMissionId": "splashing-in-creative-pools",
+      "title": "Splashing in Creative Pools",
+      "targetType": "Solana art/meme communities, creative challenge groups (non-NFT focused)",
+      "draftText": "Ooh! Tralalerito see so many pretty colors here! Can I make a tiny splashy drawing too? What your favorite thing to imagine? Tralalerito loves drawing little fishy friends! So much fun!",
+      "tone": "Playful, curious, eager to create",
+      "targetAngle": "Engaging with art/meme communities by expressing desire to participate in creative fun.",
+      "riskCheck": "Ensure focus remains on community's creative output and Tralalerito's participation, not promoting $TRALALA or asking for specific engagement metrics."
+    }
+  ]
+}

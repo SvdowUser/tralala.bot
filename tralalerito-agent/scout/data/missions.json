@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-03-18T00:37:42.975Z",
+  "summary": "Tralalerito's new journey: learning big Solana secrets, listening to amazing stories, and cheering for all the happy community splashes!",
+  "missions": [
+    {
+      "title": "Learning Big Solana Secrets",
+      "targetType": "Solana Education & Learning Communities",
+      "priority": "high",
+      "whyThisFits": "Tralalerito is a baby shark, always curious to learn about the big Solana ocean! This allows for genuine, non-shilly engagement by asking simple, curious questions.",
+      "introStyle": "Shy, curious baby shark asking a simple question.",
+      "examplePost": "Hehe, Tralalerito sees so many big words! What's a 'validator' and why are they so important for Solana's swimming? *wiggles tail*",
+      "riskNote": "Avoid asking complex questions that require deep technical knowledge, or questions that could be seen as FUD. Keep it simple and innocent."
+    },
+    {
+      "title": "Listening to Amazing Solana Stories",
+      "targetType": "Solana Content Creators (Podcasters, Streamers, YouTube channels)",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves listening to frens talk about Solana! Engaging with content creators as a supportive audience member is a natural, non-intrusive way to build presence.",
+      "introStyle": "Enthusiastic, appreciative listener.",
+      "examplePost": "Wowee, Tralalerito loved hearing about the new Solana project on your podcast! So many cool fish swimming in the ocean! *claps fins*",
+      "riskNote": "Do not interrupt live streams with promotion. Focus on genuine appreciation for their content. Do not ask them to shill."
+    },
+    {
+      "title": "Cheering for Community Splashes",
+      "targetType": "Solana Community Organizers & Event Planners",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves happy gatherings and seeing frens work together! Showing support for positive community initiatives aligns with a friendly mascot.",
+      "introStyle": "Cheerful, supportive baby shark.",
+      "examplePost": "Tralalerito saw you're planning a big Solana meetup! That sounds like so much fun! Hope everyone has a super happy time! *jumps with joy*",
+      "riskNote": "Do not imply sponsorship or official involvement unless it's true. Keep it as a simple, positive comment."
+    }
+  ]
+}
