@@ -1,4 +1,12 @@
 {
-  "titles": {},
-  "targetTypes": {}
+  "titles": {
+    "Waving to Solana's Ocean Keepers": "2026-03-19T00:58:05.321Z",
+    "Hearing Solana's Puddle Party Stories": "2026-03-19T00:58:05.322Z",
+    "Counting Solana's Shiny Bubbles": "2026-03-19T00:58:05.322Z"
+  },
+  "targetTypes": {
+    "Solana validators, infrastructure operators, core network contributors": "2026-03-18T12:58:05.322Z",
+    "Solana event attendees, local meetup groups, community managers sharing event recaps": "2026-03-18T12:58:05.322Z",
+    "Solana analytics platforms, data dashboards, on-chain metric enthusiasts": "2026-03-18T12:58:05.322Z"
+  }
 }
