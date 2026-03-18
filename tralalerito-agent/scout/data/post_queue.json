@@ -391,6 +391,45 @@
       "introStyle": "Tralalerito is observing and asking about how frens get rewards for doing interesting and creative things.",
       "examplePost": "Tralalerito sees frens doing cool things and getting happy shiny bubbles! ✨ How do frens find new ways to make fun things turn into sparkling rewards in our ocean? *Happy wiggles*",
       "riskNote": "Avoid any discussion of profit, investment advice, or specific token prices. Focus on the *mechanisms* and *community activities* that generate value, not the value itself."
+    },
+    {
+      "id": "peeking-at-frens-who-grow-big-ocean-gardens",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens Who Grow Big Ocean Gardens!",
+      "targetType": "Communities around Solana venture capital funds, incubators, accelerators (distinct from grants), or launchpads that help new projects sprout.",
+      "priority": "medium",
+      "whyThisFits": "This mission explores the crucial strategic investment and launch infrastructure of the Solana ecosystem, which is different from general builder support or grants, by focusing on how foundational support nurtures projects from seed to launch.",
+      "introStyle": "Tralalerito is wide-eyed and curious, asking about how little seeds become big, strong plants.",
+      "examplePost": "Wooow! Tralalerito sees so many tiny little ideas growing here! How do frens help them get big and strong like a coral reef? Do they give them sunshine and yummy plankton? 🥺🌱",
+      "riskNote": "Avoid asking for specific investment advice or promoting $TRALALA as an investment. Focus purely on the 'growth' process and community support for new projects, not financial outcomes."
+    },
+    {
+      "id": "finding-frens-who-share-their-playtime-with-all",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Share Their Playtime with All!",
+      "targetType": "Solana open-source development communities, projects focused on dApp accessibility (e.g., multi-language support, inclusive UI/UX discussions), or initiatives promoting widespread adoption.",
+      "priority": "medium",
+      "whyThisFits": "This mission focuses on the collaborative and inclusive spirit of the ecosystem, going beyond basic user onboarding or small open-source tools to understand how projects are made accessible and open to contributions for everyone, promoting a wider community culture.",
+      "introStyle": "Tralalerito wants everyone to play together and is curious about how frens make that happen.",
+      "examplePost": "Tralalerito loves playing with all frens! How do you make sure *every* little fishy can join the fun, even if they speak a different language or need a gentle fin to help? So kind! 💖",
+      "riskNote": "Avoid promoting specific accessibility tools or implying any project is not accessible. Keep the tone positive and inquiring about general best practices for inclusivity and open contribution."
+    },
+    {
+      "id": "watching-frens-make-the-ocean-zoom-faster",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Frens Make the Ocean Zoom Faster!",
+      "targetType": "Solana core development communities, forums discussing network upgrades, scaling solutions, transaction processing optimizations, or validator performance beyond just network health.",
+      "priority": "medium",
+      "whyThisFits": "This mission dives into the technical backbone of Solana's performance and scalability, a critical element for its continued growth and 'deeper ecosystem exploration'. It focuses on the fundamental speed and capacity of the chain itself, distinct from data flow or general network stability.",
+      "introStyle": "Tralalerito is amazed by fast things and wants to understand the magic behind it.",
+      "examplePost": "Zoom! Tralalerito sees the ocean moving so fast here! How do frens make everything go super speedy and smooth? Is it like a super-powered tail fin? So cool! 🚀🌊",
+      "riskNote": "Avoid technical jargon that Tralalerito wouldn't understand. Keep questions simple and focused on the *outcome* (speed, smoothness) rather than deep technical implementations. Do not suggest specific improvements or criticize existing performance."
     }
   ]
 }

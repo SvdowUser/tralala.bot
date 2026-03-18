@@ -270,6 +270,112 @@
           ]
         }
       ]
+    },
+    {
+      "generatedAt": "2026-03-18T20:35:32.915Z",
+      "summary": "Tralalerito wants to peek at frens who grow big ideas, find frens who make sure everyone can play, and watch frens make the ocean go super speedy!",
+      "focus": "deeper ecosystem exploration",
+      "generatedIds": [
+        "peeking-at-frens-who-grow-big-ocean-gardens",
+        "finding-frens-who-share-their-playtime-with-all",
+        "watching-frens-make-the-ocean-zoom-faster"
+      ],
+      "generatedTitles": [
+        "Peeking at Frens Who Grow Big Ocean Gardens!",
+        "Finding Frens Who Share Their Playtime with All!",
+        "Watching Frens Make the Ocean Zoom Faster!"
+      ],
+      "missionCount": 3,
+      "webSignals": [
+        {
+          "label": "solana builders",
+          "query": "Solana builders community projects",
+          "topUrls": [
+            "https://solana.com/community",
+            "https://solana.com/events",
+            "https://solana.org/grants-funding"
+          ]
+        },
+        {
+          "label": "solana education",
+          "query": "Solana education tutorials community",
+          "topUrls": [
+            "https://solana.com/developers/guides",
+            "https://solana.tutorial.app/",
+            "https://solanacompass.com/projects/category/community/education"
+          ]
+        },
+        {
+          "label": "solana memes",
+          "query": "Solana meme community creative projects",
+          "topUrls": [
+            "https://medium.com/@bowhowdy/lessons-in-community-building-on-solana-memecoins-nfts-f09145ff116f",
+            "https://www.ledger.com/academy/topics/crypto/top-solana-memecoins"
+          ]
+        },
+        {
+          "label": "focus",
+          "query": "Solana deeper ecosystem exploration",
+          "topUrls": [
+            "https://www.mexc.com/learn/article/solana-ecosystem-explained-projects-coins-and-how-it-works/1",
+            "https://explore.st-aug.edu/exp/solanas-hottest-new-projects-a-deep-dive-into-the-ecosystems-next-wave",
+            "https://medium.com/@thacryptoPROF/the-solana-ecosystem-exploration-fdefddb5f291"
+          ]
+        }
+      ]
+    },
+    {
+      "generatedAt": "2026-03-18T20:43:00.891Z",
+      "summary": "Tralalerito wants to peek at how frens share and borrow shiny bubbles, watch frens swap shells super fast, and find frens who make building new things extra easy!",
+      "focus": "deeper ecosystem exploration",
+      "generatedIds": [
+        "watching-frens-share-their-shiny-bubbles-and-get-them-back",
+        "peeking-at-frens-who-swap-shiny-shells-super-fast",
+        "peeking-at-frens-who-make-super-duper-easy-builder-tools"
+      ],
+      "generatedTitles": [
+        "Watching Frens Share Their Shiny Bubbles and Get Them Back!",
+        "Peeking at Frens Who Swap Shiny Shells Super Fast!",
+        "Peeking at Frens Who Make Super-Duper Easy Builder Tools!"
+      ],
+      "missionCount": 3,
+      "webSignals": [
+        {
+          "label": "solana builders",
+          "query": "Solana builders community projects",
+          "topUrls": [
+            "https://solana.com/community",
+            "https://solana.com/events",
+            "https://solana.org/grants-funding"
+          ]
+        },
+        {
+          "label": "solana education",
+          "query": "Solana education tutorials community",
+          "topUrls": [
+            "https://solana.com/developers/guides",
+            "https://solana.tutorial.app/",
+            "https://solanacompass.com/projects/category/community/education"
+          ]
+        },
+        {
+          "label": "solana memes",
+          "query": "Solana meme community creative projects",
+          "topUrls": [
+            "https://medium.com/@bowhowdy/lessons-in-community-building-on-solana-memecoins-nfts-f09145ff116f",
+            "https://www.ledger.com/academy/topics/crypto/top-solana-memecoins"
+          ]
+        },
+        {
+          "label": "focus",
+          "query": "Solana deeper ecosystem exploration",
+          "topUrls": [
+            "https://www.mexc.com/learn/article/solana-ecosystem-explained-projects-coins-and-how-it-works/1",
+            "https://explore.st-aug.edu/exp/solanas-hottest-new-projects-a-deep-dive-into-the-ecosystems-next-wave",
+            "https://medium.com/@thacryptoPROF/the-solana-ecosystem-exploration-fdefddb5f291"
+          ]
+        }
+      ]
     }
   ]
 }

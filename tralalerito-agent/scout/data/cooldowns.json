@@ -29,7 +29,13 @@
     "Spotting New Ways Frens Get Shiny Bubbles!": "2026-03-19T20:28:37.860Z",
     "Peeking at Frens Who Study Ocean Secrets with Magic!": "2026-03-19T20:34:41.823Z",
     "Finding Frens Who Share Their Shiny Bubbles to Help Others!": "2026-03-19T20:34:41.824Z",
-    "Discovering Frens' Special Starfish Stickers!": "2026-03-19T20:34:41.824Z"
+    "Discovering Frens' Special Starfish Stickers!": "2026-03-19T20:34:41.824Z",
+    "Peeking at Frens Who Grow Big Ocean Gardens!": "2026-03-19T20:35:32.914Z",
+    "Finding Frens Who Share Their Playtime with All!": "2026-03-19T20:35:32.915Z",
+    "Watching Frens Make the Ocean Zoom Faster!": "2026-03-19T20:35:32.915Z",
+    "Watching Frens Share Their Shiny Bubbles and Get Them Back!": "2026-03-19T20:43:00.890Z",
+    "Peeking at Frens Who Swap Shiny Shells Super Fast!": "2026-03-19T20:43:00.891Z",
+    "Peeking at Frens Who Make Super-Duper Easy Builder Tools!": "2026-03-19T20:43:00.891Z"
   },
   "targetTypes": {
     "Solana wallet communities, user support forums for wallets, communities discussing self-custody.": "2026-03-19T00:52:28.075Z",
@@ -55,6 +61,12 @@
     "Communities discussing work-to-earn, learn-to-earn, creator economies, or novel incentive structures on Solana (non-game specific).": "2026-03-19T08:28:37.860Z",
     "Solana communities and projects exploring Decentralized Science (DeSci) applications": "2026-03-19T08:34:41.824Z",
     "Solana communities focused on charity, social good, or impact projects": "2026-03-19T08:34:41.824Z",
-    "Solana communities exploring non-transferable digital assets, soul-bound tokens (SBTs), or unique digital credentials": "2026-03-19T08:34:41.824Z"
+    "Solana communities exploring non-transferable digital assets, soul-bound tokens (SBTs), or unique digital credentials": "2026-03-19T08:34:41.824Z",
+    "Communities around Solana venture capital funds, incubators, accelerators (distinct from grants), or launchpads that help new projects sprout.": "2026-03-19T08:35:32.915Z",
+    "Solana open-source development communities, projects focused on dApp accessibility (e.g., multi-language support, inclusive UI/UX discussions), or initiatives promoting widespread adoption.": "2026-03-19T08:35:32.915Z",
+    "Solana core development communities, forums discussing network upgrades, scaling solutions, transaction processing optimizations, or validator performance beyond just network health.": "2026-03-19T08:35:32.915Z",
+    "Solana DeFi lending and borrowing protocols' communities, liquidity provider groups.": "2026-03-19T08:43:00.891Z",
+    "Solana DEX (Decentralized Exchange) communities, automated market maker (AMM) discussion groups.": "2026-03-19T08:43:00.891Z",
+    "Solana developer tooling communities, SDK/API discussions, integrated development environments (IDEs) for Solana.": "2026-03-19T08:43:00.891Z"
   }
 }

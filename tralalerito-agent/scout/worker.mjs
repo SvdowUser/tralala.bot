@@ -240,6 +240,39 @@ async function main() {
     webSignals
   });
 
+  const allowedUrls = [
+    ...new Set(
+      webSignals.flatMap((x) => (x.results || []).map((r) => r.url).filter(Boolean))
+    )
+  ];
+
+  function enforceLiveSources(missions) {
+    return (missions || []).map((mission, idx) => {
+      const currentUrls = Array.isArray(mission.sourceUrls) ? mission.sourceUrls : [];
+      const validUrls = currentUrls.filter((u) => allowedUrls.includes(u));
+
+      let fallbackUrls = [];
+      if (validUrls.length === 0) {
+        const bestSignal =
+          webSignals[idx] ||
+          webSignals.find((x) => Array.isArray(x.results) && x.results.length > 0) ||
+          null;
+
+        fallbackUrls = bestSignal
+          ? (bestSignal.results || []).map((r) => r.url).filter(Boolean).slice(0, 3)
+          : [];
+      }
+
+      return {
+        ...mission,
+        sourceUrls: (validUrls.length > 0 ? validUrls : fallbackUrls).slice(0, 3),
+        liveWhyNow:
+          mission.liveWhyNow ||
+          "This mission was anchored to recent live web discovery signals."
+      };
+    });
+  }
+
   const raw = await askGemini(prompt);
   const plan = extractJson(raw);
 
