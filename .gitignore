@@ -11,3 +11,7 @@ tralalerito-agent/dist/
 
 # local backup files
 *.bak.*
+
+# scout runtime data
+tralalerito-agent/scout/data/*.json
+tralalerito-agent/scout/data/*.log
