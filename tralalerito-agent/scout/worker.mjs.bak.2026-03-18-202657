@@ -1,6 +1,5 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import { collectLiveSignals } from "./web.mjs";
 
 const ROOT = process.cwd();
 const DATA_DIR = path.join(ROOT, "scout", "data");
@@ -99,8 +98,7 @@ function buildPrompt({
   history,
   state,
   feedback,
-  cooldowns,
-  webSignals
+  cooldowns
 }) {
   return `
 You are Tralalerito, a tiny baby shark AI mascot for $TRALALA on Solana.
@@ -221,11 +219,6 @@ async function main() {
   cooldowns = pruneCooldowns(cooldowns);
 
   const queueSummary = summarizeStatuses(queue);
-  const webSignals = await collectLiveSignals({
-    watchlist,
-    focus: state.currentFocus || "general exploration",
-    maxQueries: 4
-  });
   const prompt = buildPrompt({
     watchlist,
     memory,
@@ -234,8 +227,7 @@ async function main() {
     history,
     state,
     feedback,
-    cooldowns,
-    webSignals
+    cooldowns
   });
 
   const raw = await askGemini(prompt);
@@ -283,12 +275,7 @@ async function main() {
     focus: output.focus,
     generatedIds,
     generatedTitles: filteredMissions.map(x => x.title),
-    missionCount: filteredMissions.length,
-    webSignals: webSignals.map((x) => ({
-      label: x.label,
-      query: x.query,
-      topUrls: (x.results || []).map((r) => r.url).slice(0, 3)
-    }))
+    missionCount: filteredMissions.length
   });
   history.runs = history.runs.slice(-40);
 
