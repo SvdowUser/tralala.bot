@@ -136,6 +136,9 @@ ${JSON.stringify(feedback, null, 2)}
 Active cooldowns:
 ${JSON.stringify(cooldowns, null, 2)}
 
+LIVE WEB SIGNALS:
+${JSON.stringify(webSignals, null, 2)}
+
 Instructions:
 - prefer new angles
 - avoid repeating titles or near-duplicate ideas
@@ -144,6 +147,10 @@ Instructions:
 - if a style was rejected, reduce it
 - think like a small autonomous scout agent
 - keep everything cute, non-scammy, and community-first
+- every mission should use LIVE WEB SIGNALS when available
+- every mission should include liveWhyNow
+- every mission should include 1 to 3 sourceUrls
+- sourceUrls must come from LIVE WEB SIGNALS when available
 
 Return ONLY valid JSON in this exact format:
 {
@@ -284,7 +291,7 @@ async function main() {
   const filteredMissions = [];
   const generatedIds = [];
 
-  for (const mission of plan.missions || []) {
+  for (const mission of enforceLiveSources(plan.missions || [])) {
     const id = slugify(mission.title);
     const titleKey = String(mission.title || "").toLowerCase();
     const targetKey = String(mission.targetType || "").toLowerCase();
