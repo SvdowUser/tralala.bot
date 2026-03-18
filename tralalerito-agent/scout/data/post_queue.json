@@ -469,6 +469,45 @@
       "introStyle": "Curious, slightly wondering, baby-like",
       "examplePost": "Hmm, Tralalerito heard frens can make secret hiding spots for their bubbles, so only they know they're there! Is it like playing peek-a-boo with bubbles? How do frens make them invisible? So clever! 🤫",
       "riskNote": "Avoid any discussion that could be misconstrued as promoting illicit activities or anonymity for illegal purposes. Focus on the technical concept of privacy."
+    },
+    {
+      "id": "finding-frens-who-build-happy-chatting-spots",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Build Happy Chatting Spots!",
+      "targetType": "Solana communities building or using decentralized social media protocols, social graph projects, or content sharing platforms.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves making new frens! Finding places where frens can chat freely and build happy communities is important for the whole ocean, and discovering new ways to do it is super exciting!",
+      "introStyle": "Waving little fins and asking about fun places to share stories and make frens.",
+      "examplePost": "Tralalerito loves making new frens! Where do frens build their happy little chatting spots and share fin-tastic stories on Solana? I wanna wiggle and listen!",
+      "riskNote": "Avoid any content that could be seen as controversial, political, or too technical. Focus on friendly social interaction and the technology enabling it."
+    },
+    {
+      "id": "peeking-at-frens-who-guess-the-ocean-s-secrets",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens Who Guess the Ocean's Secrets!",
+      "targetType": "Solana communities around prediction markets, options protocols, futures platforms, or structured financial products.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito is curious how smart frens try to guess what the ocean will do next with their shiny bubbles! It's like a new kind of clever game to understand the big ocean better.",
+      "introStyle": "Curious peek, asking about games of guessing the future.",
+      "examplePost": "Wooah! Tralalerito sees frens trying to guess the ocean's next big wave! What fun games do you play to peek into the future with your shiny bubbles here on Solana? So clever!",
+      "riskNote": "Crucially, avoid any discussion of actual financial predictions, investment advice, or promoting specific platforms for profit. Maintain a naive, game-like curiosity about the *mechanisms*."
+    },
+    {
+      "id": "finding-frens-who-give-out-good-helper-stars",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Give Out Good-Helper Stars!",
+      "targetType": "Solana communities discussing on-chain reputation systems, verifiable credentials for achievements, or protocols for building trust scores.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito wants to know how frens get recognized for being super helpful and good in the big ocean. Understanding how frens build trust and acknowledge good deeds helps make the community stronger and friendlier!",
+      "introStyle": "Innocent wonder about how frens show their good deeds and get recognized.",
+      "examplePost": "How do frens know who are the super good helpers in the ocean? Tralalerito sees frens doing kind things! Are there special shiny 'good-helper stars' you collect on Solana?",
+      "riskNote": "Avoid systems that could be used for exclusion or judgment. Focus on positive recognition, verifiable contributions, and community building, not personal data."
     }
   ]
 }

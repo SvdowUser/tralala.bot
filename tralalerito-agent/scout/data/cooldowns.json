@@ -38,7 +38,16 @@
     "Peeking at Frens Who Make Super-Duper Easy Builder Tools!": "2026-03-19T20:43:00.891Z",
     "Watching Frens Take Naps with Their Shiny Bubbles and Still Play!": "2026-03-19T20:43:32.122Z",
     "Peeking at Frens' Super Smart Wallet Caves!": "2026-03-19T20:43:32.122Z",
-    "Finding Frens Who Make Secret Hiding Spots for Bubbles!": "2026-03-19T20:43:32.122Z"
+    "Finding Frens Who Make Secret Hiding Spots for Bubbles!": "2026-03-19T20:43:32.122Z",
+    "Finding Frens Who Build Happy Chatting Spots!": "2026-03-19T21:01:48.700Z",
+    "Peeking at Frens Who Guess the Ocean's Secrets!": "2026-03-19T21:01:48.700Z",
+    "Finding Frens Who Give Out Good-Helper Stars!": "2026-03-19T21:01:48.700Z",
+    "Watching the Big Frens Who Keep the Ocean Running!": "2026-03-19T21:06:21.463Z",
+    "Finding Secret Clubs for Special Frens!": "2026-03-19T21:06:21.463Z",
+    "Learning New Songs from Clever Code Frens!": "2026-03-19T21:06:21.463Z",
+    "Protecting Shiny Ideas in the Ocean!": "2026-03-19T21:22:04.471Z",
+    "Making Sure Every Guppy Gets a Fair Wiggle!": "2026-03-19T21:22:04.472Z",
+    "Stacking Up Fun Blocks Together!": "2026-03-19T21:22:04.472Z"
   },
   "targetTypes": {
     "Solana wallet communities, user support forums for wallets, communities discussing self-custody.": "2026-03-19T00:52:28.075Z",
@@ -73,6 +82,15 @@
     "Solana developer tooling communities, SDK/API discussions, integrated development environments (IDEs) for Solana.": "2026-03-19T08:43:00.891Z",
     "Solana liquid staking protocols' communities, groups discussing staking derivatives (e.g., Marinade, Jito).": "2026-03-19T08:43:32.122Z",
     "Solana account abstraction communities, smart wallet developers, groups exploring advanced wallet features (e.g., multi-sig, social recovery).": "2026-03-19T08:43:32.122Z",
-    "Solana privacy protocol communities, confidential computing discussions, developers working on zero-knowledge proof (ZKP) applications on Solana.": "2026-03-19T08:43:32.122Z"
+    "Solana privacy protocol communities, confidential computing discussions, developers working on zero-knowledge proof (ZKP) applications on Solana.": "2026-03-19T08:43:32.122Z",
+    "Solana communities building or using decentralized social media protocols, social graph projects, or content sharing platforms.": "2026-03-19T09:01:48.700Z",
+    "Solana communities around prediction markets, options protocols, futures platforms, or structured financial products.": "2026-03-19T09:01:48.700Z",
+    "Solana communities discussing on-chain reputation systems, verifiable credentials for achievements, or protocols for building trust scores.": "2026-03-19T09:01:48.700Z",
+    "Solana validator communities, staking service providers (non-liquid focus), discussions around network health and decentralization.": "2026-03-19T09:06:21.463Z",
+    "Solana communities utilizing token-gating for exclusive access, membership DAOs, or fan engagement groups.": "2026-03-19T09:06:21.463Z",
+    "Solana developer communities discussing new SPL standards, program libraries, or advanced smart contract patterns.": "2026-03-19T09:06:21.463Z",
+    "Solana communities discussing digital rights management, on-chain intellectual property, tokenized licensing, or anti-counterfeiting solutions.": "2026-03-19T09:22:04.472Z",
+    "Solana communities focused on anti-bot measures, Sybil resistance, fair launch mechanisms for tokens/NFTs, or equitable distribution strategies.": "2026-03-19T09:22:04.472Z",
+    "Solana developer communities focused on composability, protocol integration, modular dApp architecture, or projects that build extensively on other existing Solana protocols.": "2026-03-19T09:22:04.472Z"
   }
 }

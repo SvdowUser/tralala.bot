@@ -312,30 +312,6 @@ async function main() {
 
   await writeJson(MISSIONS, output);
 
-  const existingDraftIds = new Set((drafts.items || []).map(x => x.sourceMissionId));
-
-  const newDrafts = filteredMissions
-    .map((mission) => {
-      const id = slugify(mission.title);
-      return {
-        id,
-        createdAt: output.generatedAt,
-        status: "draft",
-        sourceMissionId: id,
-        title: mission.title,
-        targetType: mission.targetType,
-        draftText: mission.examplePost || "",
-        tone: mission.introStyle || "cute, curious, baby-like",
-        targetAngle: mission.liveWhyNow || mission.whyThisFits || "",
-        riskCheck: mission.riskNote || "",
-        liveWhyNow: mission.liveWhyNow || "",
-        sourceUrls: Array.isArray(mission.sourceUrls) ? mission.sourceUrls : []
-      };
-    })
-    .filter((draft) => draft.sourceMissionId && !existingDraftIds.has(draft.sourceMissionId));
-
-  drafts.items = [...(drafts.items || []), ...newDrafts];
-
   history.runs.push({
     generatedAt: output.generatedAt,
     summary: output.summary,
@@ -371,10 +347,6 @@ async function main() {
   await writeJson(STATE, state);
   await writeJson(MEMORY, memory);
   await writeJson(COOLDOWNS, cooldowns);
-  await writeJson(DRAFTS, drafts);
-
-  console.log("Drafts updated:");
-  console.log(JSON.stringify({ items: newDrafts }, null, 2));
 
   console.log("Scout mission plan generated:");
   console.log(JSON.stringify(output, null, 2));

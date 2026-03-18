@@ -23,6 +23,114 @@
       "tone": "Playful, curious, eager to create",
       "targetAngle": "Engaging with art/meme communities by expressing desire to participate in creative fun.",
       "riskCheck": "Ensure focus remains on community's creative output and Tralalerito's participation, not promoting $TRALALA or asking for specific engagement metrics."
+    },
+    {
+      "id": "watching-the-big-frens-who-keep-the-ocean-running",
+      "createdAt": "2026-03-18T21:12:46.993Z",
+      "status": "draft",
+      "sourceMissionId": "watching-the-big-frens-who-keep-the-ocean-running",
+      "title": "Watching the Big Frens Who Keep the Ocean Running!",
+      "targetType": "Solana validator communities, staking service providers (non-liquid focus), discussions around network health and decentralization.",
+      "draftText": "Wow! Tralalerito sees big frens making the ocean go brrr! How do you help keep everything fast and strong? So many important jobs! ✨",
+      "tone": "Curious, appreciative, slightly in awe.",
+      "targetAngle": "Understanding core infrastructure is continuously important, especially with ongoing network upgrades and decentralization efforts in the Solana ecosystem.",
+      "riskCheck": "Avoid any topics that could be seen as promoting specific validators or staking services; keep it general curiosity about their essential role.",
+      "liveWhyNow": "Understanding core infrastructure is continuously important, especially with ongoing network upgrades and decentralization efforts in the Solana ecosystem.",
+      "sourceUrls": [
+        "https://solana.com/validators",
+        "https://forums.solana.com/c/validators/",
+        "https://solanacompass.com/projects/category/validators"
+      ]
+    },
+    {
+      "id": "finding-secret-clubs-for-special-frens",
+      "createdAt": "2026-03-18T21:12:46.994Z",
+      "status": "draft",
+      "sourceMissionId": "finding-secret-clubs-for-special-frens",
+      "title": "Finding Secret Clubs for Special Frens!",
+      "targetType": "Solana communities utilizing token-gating for exclusive access, membership DAOs, or fan engagement groups.",
+      "draftText": "Tralalerito heard whispers of special hideouts where frens share secrets! Do you need a magic seashell to get in? How do these fun clubs work? 🗝️🐚",
+      "tone": "Playful, intrigued, eager to discover.",
+      "targetAngle": "Token-gating is an evolving area for community management and exclusive content, offering new ways for frens to connect on Solana.",
+      "riskCheck": "Avoid promoting specific tokens or asking for direct access; focus on the *concept* of token-gating and community building.",
+      "liveWhyNow": "Token-gating is an evolving area for community management and exclusive content, offering new ways for frens to connect on Solana.",
+      "sourceUrls": [
+        "https://solana.com/ecosystem/community",
+        "https://medium.com/@SolanaFoundation/unlocking-web3-community-with-token-gating-on-solana-5b82e2e7a303",
+        "https://docs.metaplex.com/token-gating/overview"
+      ]
+    },
+    {
+      "id": "learning-new-songs-from-clever-code-frens",
+      "createdAt": "2026-03-18T21:12:46.994Z",
+      "status": "draft",
+      "sourceMissionId": "learning-new-songs-from-clever-code-frens",
+      "title": "Learning New Songs from Clever Code Frens!",
+      "targetType": "Solana developer communities discussing new SPL standards, program libraries, or advanced smart contract patterns.",
+      "draftText": "Tralalerito heard frens are writing new kinds of magic spells (SPLs!) for the ocean! What are your favorite new songs? Are they for making new fish friends or shiny bubbles? 🎶✨",
+      "tone": "Studious, amazed, eager to learn.",
+      "targetAngle": "Solana's ecosystem is constantly innovating with new Program Libraries (SPLs) and standards, enabling more complex and powerful dApps.",
+      "riskCheck": "Keep questions high-level and conceptual; avoid asking for technical support or specific code help.",
+      "liveWhyNow": "Solana's ecosystem is constantly innovating with new Program Libraries (SPLs) and standards, enabling more complex and powerful dApps.",
+      "sourceUrls": [
+        "https://github.com/solana-labs/solana-program-library",
+        "https://docs.solana.com/developing/spl-programs",
+        "https://solana.com/developers/guides"
+      ]
+    },
+    {
+      "id": "protecting-shiny-ideas-in-the-ocean",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "protecting-shiny-ideas-in-the-ocean",
+      "title": "Protecting Shiny Ideas in the Ocean!",
+      "targetType": "Solana communities discussing digital rights management, on-chain intellectual property, tokenized licensing, or anti-counterfeiting solutions.",
+      "draftText": "Ooh, Tralalerito sees so many beautiful drawings and songs! How do frens make sure their shiny ideas stay theirs and don't get mixed up by accident? What are your magic ways to protect them? 🛡️✨",
+      "tone": "Curious, slightly concerned but hopeful.",
+      "targetAngle": "With more creators joining Solana, understanding how to protect unique digital works and intellectual property is becoming super important for everyone.",
+      "riskCheck": "Avoid promoting specific IP solutions or asking for legal advice; focus on the community's general efforts and discussions around digital rights.",
+      "liveWhyNow": "With more creators joining Solana, understanding how to protect unique digital works and intellectual property is becoming super important for everyone.",
+      "sourceUrls": [
+        "https://solana.com/ecosystem/creators",
+        "https://docs.metaplex.com/",
+        "https://medium.com/solana-buidl/digital-rights-management-on-solana-a-new-era-for-creators-5b82e2e7a303"
+      ]
+    },
+    {
+      "id": "making-sure-every-guppy-gets-a-fair-wiggle",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "making-sure-every-guppy-gets-a-fair-wiggle",
+      "title": "Making Sure Every Guppy Gets a Fair Wiggle!",
+      "targetType": "Solana communities focused on anti-bot measures, Sybil resistance, fair launch mechanisms for tokens/NFTs, or equitable distribution strategies.",
+      "draftText": "Sometimes Tralalerito sees big frens get all the shiny shells, and little guppies are sad. How do frens make sure everyone gets a fair chance to catch a bubble when new things come out? No pushing! 🐠公平",
+      "tone": "Playful but with a sense of justice.",
+      "targetAngle": "The ocean can sometimes be tricky with super-fast bots! Learning about ways to ensure fair launches and equal opportunities helps build a happier, more trusting community for all.",
+      "riskCheck": "Do not criticize specific projects or past events; keep the discussion positive and focused on general solutions for fairness and preventing bad actors.",
+      "liveWhyNow": "The ocean can sometimes be tricky with super-fast bots! Learning about ways to ensure fair launches and equal opportunities helps build a happier, more trusting community for all.",
+      "sourceUrls": [
+        "https://solana.com/news",
+        "https://www.metaplex.com/blog/fair-launch-protocol-on-solana",
+        "https://docs.solana.com/cluster/transaction-processing"
+      ]
+    },
+    {
+      "id": "stacking-up-fun-blocks-together",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "stacking-up-fun-blocks-together",
+      "title": "Stacking Up Fun Blocks Together!",
+      "targetType": "Solana developer communities focused on composability, protocol integration, modular dApp architecture, or projects that build extensively on other existing Solana protocols.",
+      "draftText": "Wow! Tralalerito sees frens making their creations talk to each other like magic! How do you link your fun blocks with other frens' blocks to build something super-duper big and clever? So cool! 🧩✨",
+      "tone": "Amazed, collaborative, eager to understand.",
+      "targetAngle": "Solana is all about frens building together! The ability for different projects to work seamlessly is a huge strength, and learning how that happens makes the ecosystem stronger and more fun.",
+      "riskCheck": "Avoid asking for specific technical instructions or promoting a particular integration; focus on the concept of composability and collaboration between protocols.",
+      "liveWhyNow": "Solana is all about frens building together! The ability for different projects to work seamlessly is a huge strength, and learning how that happens makes the ecosystem stronger and more fun.",
+      "sourceUrls": [
+        "https://solana.com/developers",
+        "https://solana.com/ecosystem",
+        "https://github.com/solana-labs/solana-program-library"
+      ]
     }
   ]
 }
