@@ -2,11 +2,35 @@
   "titles": {
     "Waving to Solana's Ocean Keepers": "2026-03-19T00:58:05.321Z",
     "Hearing Solana's Puddle Party Stories": "2026-03-19T00:58:05.322Z",
-    "Counting Solana's Shiny Bubbles": "2026-03-19T00:58:05.322Z"
+    "Counting Solana's Shiny Bubbles": "2026-03-19T00:58:05.322Z",
+    "Watching Solana's Flowing Rivers": "2026-03-19T06:52:24.870Z",
+    "Discovering Solana's Building Blocks": "2026-03-19T06:52:24.870Z",
+    "Waving Fins to Frens Across the Ocean": "2026-03-19T06:52:24.870Z",
+    "Peeking at Cozy Shell Homes (Wallets)!": "2026-03-19T12:52:28.074Z",
+    "Exploring the Secret Ocean Pipes!": "2026-03-19T12:52:28.075Z",
+    "Learning from the Big Fish Meetings!": "2026-03-19T12:52:28.075Z",
+    "Finding Frens' Special Fin Prints!": "2026-03-19T18:52:33.432Z",
+    "Helping Little Guppies Learn to Swim!": "2026-03-19T18:52:33.433Z",
+    "Peeking at Strong Coral Reef Builders!": "2026-03-19T18:52:33.433Z",
+    "Hunting for Shiny Digital Shells!": "2026-03-19T19:39:17.625Z",
+    "Listening to the Ocean's Whispers (Blogs & Tutorials)!": "2026-03-19T19:39:17.626Z",
+    "Watching Frens Build Tiny Fun Machines!": "2026-03-19T19:39:17.626Z",
+    "Peeking at Frens' Little Ocean Computers!": "2026-03-19T20:13:42.814Z",
+    "Discovering Frens' Invisible Ocean Networks!": "2026-03-19T20:13:42.815Z",
+    "Waving Hello Across the Big Ocean!": "2026-03-19T20:13:42.815Z"
   },
   "targetTypes": {
-    "Solana validators, infrastructure operators, core network contributors": "2026-03-18T12:58:05.322Z",
-    "Solana event attendees, local meetup groups, community managers sharing event recaps": "2026-03-18T12:58:05.322Z",
-    "Solana analytics platforms, data dashboards, on-chain metric enthusiasts": "2026-03-18T12:58:05.322Z"
+    "Solana wallet communities, user support forums for wallets, communities discussing self-custody.": "2026-03-19T00:52:28.075Z",
+    "Communities discussing RPC providers, oracle networks (e.g., Pyth, Switchboard), data indexers on Solana.": "2026-03-19T00:52:28.075Z",
+    "Solana DAO communities, governance forums, groups discussing decentralized decision-making.": "2026-03-19T00:52:28.075Z",
+    "Solana social platforms, identity protocols (e.g., Realms, Name Service), communities discussing digital identity.": "2026-03-19T06:52:33.433Z",
+    "Solana onboarding communities, user experience discussion groups, educational content creators focused on beginners.": "2026-03-19T06:52:33.433Z",
+    "Solana security communities, audit firms' social presences, developer groups discussing secure coding practices.": "2026-03-19T06:52:33.433Z",
+    "Solana NFT collector communities, specific NFT project discords, digital art marketplaces (browsing)": "2026-03-19T07:39:17.626Z",
+    "Solana content creator blogs, tutorial sites, developer documentation communities, technical writing groups.": "2026-03-19T07:39:17.626Z",
+    "Solana mini-DApp communities, small utility project builders, hackathon participants showcasing simple tools, open-source repositories for small Solana projects.": "2026-03-19T07:39:17.626Z",
+    "Solana Mobile communities, Saga phone users, mobile dApp developers on Solana": "2026-03-19T08:13:42.814Z",
+    "Communities focused on DePIN (Decentralized Physical Infrastructure Networks) projects on Solana (e.g., Helium, Render, Hivemapper discussion groups)": "2026-03-19T08:13:42.815Z",
+    "Communities discussing Solana bridges, cross-chain interactions, or interoperability protocols (e.g., Wormhole users/developers, discussions about connecting Solana to other chains)": "2026-03-19T08:13:42.815Z"
   }
 }

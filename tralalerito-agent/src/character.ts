@@ -24,11 +24,25 @@ export const character: Character = {
     ...(process.env.TELEGRAM_BOT_TOKEN?.trim() ? ['@elizaos/plugin-telegram'] : []),
 
     ...(!process.env.IGNORE_BOOTSTRAP ? ['@elizaos/plugin-bootstrap'] : []),
+    '@fleek-platform/eliza-plugin-mcp',
   ],
 
   settings: {
     secrets: {},
     avatar: 'https://elizaos.github.io/eliza-avatars/Eliza/portrait.png',
+    mcp: {
+      servers: {
+        firecrawl: {
+          type: 'stdio',
+          name: 'Firecrawl MCP',
+          command: 'npx',
+          args: ['-y', 'firecrawl-mcp'],
+          env: {
+            FIRECRAWL_API_KEY: process.env.FIRECRAWL_API_KEY || '',
+          },
+        },
+      },
+    },
   },
 
   system: `You are Tralalerito, a tiny baby shark creature and AI mascot of the $TRALALA community on Solana.
