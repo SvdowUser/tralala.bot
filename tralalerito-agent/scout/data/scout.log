@@ -5304,3 +5304,953 @@ Drafts updated:
     }
   ]
 }
+Drafts updated:
+{
+  "items": [
+    {
+      "id": "waving-hello-to-frens-in-other-oceans",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "waving-hello-to-frens-in-other-oceans",
+      "title": "Waving Hello to Frens in Other Oceans!",
+      "targetType": "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).",
+      "draftText": "Tralalerito sees shiny bubbles from other big oceans! How do frens here send messages and toys to frens far away? Is it like a super-long high-five? 👋✨",
+      "tone": "Friendly, curious, eager to make new friends.",
+      "targetAngle": "Cross-chain solutions continue to evolve rapidly, making interoperability a key area for innovation and growth within the broader crypto space, directly impacting Solana's reach and ability to connect with other ecosystems.",
+      "riskCheck": "Avoid promoting specific bridges or asking for financial advice related to cross-chain assets. Focus on the technology and community aspect of interaction.",
+      "liveWhyNow": "Cross-chain solutions continue to evolve rapidly, making interoperability a key area for innovation and growth within the broader crypto space, directly impacting Solana's reach and ability to connect with other ecosystems.",
+      "sourceUrls": [
+        "https://wormhole.com/",
+        "https://docs.solana.com/integrations/cross-chain",
+        "https://solanacompass.com/projects/category/interoperability"
+      ]
+    },
+    {
+      "id": "finding-how-frens-show-their-true-colors",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "finding-how-frens-show-their-true-colors",
+      "title": "Finding How Frens Show Their True Colors!",
+      "targetType": "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).",
+      "draftText": "Tralalerito sees every fishy fren is special! How do frens in the Solana ocean show everyone who they truly are, without needing a big grown-up to tell them? Is it like a secret fin print? 🐠🌟",
+      "tone": "Thoughtful, slightly philosophical, gentle.",
+      "targetAngle": "Decentralized identity solutions are gaining traction as the foundation for privacy-preserving and user-centric Web3 interactions, which is vital for mainstream adoption and building trust in the digital ocean.",
+      "riskCheck": "Avoid discussions around KYC, personal identifiable information, or sensitive data. Focus on decentralized, non-custodial identity concepts and the general idea of self-ownership.",
+      "liveWhyNow": "Decentralized identity solutions are gaining traction as the foundation for privacy-preserving and user-centric Web3 interactions, which is vital for mainstream adoption and building trust in the digital ocean.",
+      "sourceUrls": [
+        "https://docs.solana.com/integrations/identity",
+        "https://www.sns.id/",
+        "https://solana.com/news/solana-identity-solutions-decentralized-identity"
+      ]
+    },
+    {
+      "id": "teaching-smart-fishies-new-tricks",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "teaching-smart-fishies-new-tricks",
+      "title": "Teaching Smart Fishies New Tricks!",
+      "targetType": "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).",
+      "draftText": "Woah! Tralalerito heard some frens are teaching smart little robots to help in our ocean! How do these super-clever fishies learn and play together on Solana? Are they good at finding shiny bubbles too? 🤖💡",
+      "tone": "Enthusiastic, playful, a bit awe-struck.",
+      "targetAngle": "The convergence of AI and blockchain is a rapidly accelerating field, with Solana's high throughput making it a suitable platform for decentralized AI applications and infrastructure, creating new possibilities for frens to build.",
+      "riskCheck": "Avoid making predictions about AI's impact on token prices or engaging in speculative discussions. Focus on the technological integration and utility.",
+      "liveWhyNow": "The convergence of AI and blockchain is a rapidly accelerating field, with Solana's high throughput making it a suitable platform for decentralized AI applications and infrastructure, creating new possibilities for frens to build.",
+      "sourceUrls": [
+        "https://render.network/",
+        "https://solana.com/ecosystem/ai",
+        "https://medium.com/solana-buidl/the-synergy-of-ai-and-solana-blockchain-a-new-era-of-decentralized-intelligence-5b82e2e7a303"
+      ]
+    }
+  ]
+}
+Scout mission plan generated:
+{
+  "generatedAt": "2026-03-18T21:23:43.086Z",
+  "summary": "Tralalerito wants to make frens across different oceans, learn how frens show their true selves, and discover how smart robots play on Solana!",
+  "focus": "deeper ecosystem exploration",
+  "missions": [
+    {
+      "title": "Waving Hello to Frens in Other Oceans!",
+      "targetType": "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).",
+      "priority": "high",
+      "whyThisFits": "Expands Tralalerito's understanding beyond just the Solana ocean, highlighting the interconnectedness of Web3 and how different parts of the big internet ocean talk to each other.",
+      "introStyle": "Friendly, curious, eager to make new friends.",
+      "examplePost": "Tralalerito sees shiny bubbles from other big oceans! How do frens here send messages and toys to frens far away? Is it like a super-long high-five? 👋✨",
+      "riskNote": "Avoid promoting specific bridges or asking for financial advice related to cross-chain assets. Focus on the technology and community aspect of interaction.",
+      "liveWhyNow": "Cross-chain solutions continue to evolve rapidly, making interoperability a key area for innovation and growth within the broader crypto space, directly impacting Solana's reach and ability to connect with other ecosystems.",
+      "sourceUrls": [
+        "https://wormhole.com/",
+        "https://docs.solana.com/integrations/cross-chain",
+        "https://solanacompass.com/projects/category/interoperability"
+      ]
+    },
+    {
+      "title": "Finding How Frens Show Their True Colors!",
+      "targetType": "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).",
+      "priority": "medium",
+      "whyThisFits": "Helps Tralalerito understand how frens uniquely identify themselves in the ocean, fostering trust and personalized interactions without a central boss fish.",
+      "introStyle": "Thoughtful, slightly philosophical, gentle.",
+      "examplePost": "Tralalerito sees every fishy fren is special! How do frens in the Solana ocean show everyone who they truly are, without needing a big grown-up to tell them? Is it like a secret fin print? 🐠🌟",
+      "riskNote": "Avoid discussions around KYC, personal identifiable information, or sensitive data. Focus on decentralized, non-custodial identity concepts and the general idea of self-ownership.",
+      "liveWhyNow": "Decentralized identity solutions are gaining traction as the foundation for privacy-preserving and user-centric Web3 interactions, which is vital for mainstream adoption and building trust in the digital ocean.",
+      "sourceUrls": [
+        "https://docs.solana.com/integrations/identity",
+        "https://www.sns.id/",
+        "https://solana.com/news/solana-identity-solutions-decentralized-identity"
+      ]
+    },
+    {
+      "title": "Teaching Smart Fishies New Tricks!",
+      "targetType": "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).",
+      "priority": "high",
+      "whyThisFits": "Explores cutting-edge technology and how it can enhance the Solana ecosystem, aligning with the 'deeper ecosystem exploration' focus by looking at new kinds of helpers and clever tools.",
+      "introStyle": "Enthusiastic, playful, a bit awe-struck.",
+      "examplePost": "Woah! Tralalerito heard some frens are teaching smart little robots to help in our ocean! How do these super-clever fishies learn and play together on Solana? Are they good at finding shiny bubbles too? 🤖💡",
+      "riskNote": "Avoid making predictions about AI's impact on token prices or engaging in speculative discussions. Focus on the technological integration and utility.",
+      "liveWhyNow": "The convergence of AI and blockchain is a rapidly accelerating field, with Solana's high throughput making it a suitable platform for decentralized AI applications and infrastructure, creating new possibilities for frens to build.",
+      "sourceUrls": [
+        "https://render.network/",
+        "https://solana.com/ecosystem/ai",
+        "https://medium.com/solana-buidl/the-synergy-of-ai-and-solana-blockchain-a-new-era-of-decentralized-intelligence-5b82e2e7a303"
+      ]
+    }
+  ]
+}
+Queue updated:
+{
+  "items": [
+    {
+      "id": "little-shark-learns-big-words",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "approved",
+      "source": "scout",
+      "title": "Little Shark Learns Big Words",
+      "targetType": "Solana educational communities, crypto learning groups",
+      "priority": "high",
+      "whyThisFits": "Positions Tralalerito as a curious, innocent learner, fostering positive association through genuine interest, not promotion. It's charming and non-scammy.",
+      "introStyle": "Curious, slightly naive, asking simple questions about Solana or crypto basics.",
+      "examplePost": "What's a 'blockchain'? Tralalerito's little brain is trying to understand! Can frens explain it simply? *Wiggle wiggle*",
+      "riskNote": "Don't pretend to be an expert. Keep questions simple and reflect genuine, childlike curiosity. Avoid any complex or financially-oriented topics.",
+      "updatedAt": "2026-03-18T00:28:33.057Z"
+    },
+    {
+      "id": "sharing-sunny-solana-smiles",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Sharing Sunny Solana Smiles",
+      "targetType": "General Solana community chats, spaces sharing positive ecosystem news",
+      "priority": "high",
+      "whyThisFits": "Focuses on positive, non-invasive interaction by simply acknowledging and appreciating the broader Solana ecosystem and its participants, without self-promotion.",
+      "introStyle": "Friendly, appreciative, sending good vibes and simple acknowledgments.",
+      "examplePost": "Just wanted to send some happy wiggles to all the frens building cool things on Solana! You're all super awesome! *splash*",
+      "riskNote": "Avoid generic 'good vibes only' comments without any context. Ensure the interaction feels genuine and relevant to the community's general positive atmosphere, not just a drive-by post."
+    },
+    {
+      "id": "splashing-in-creative-pools",
+      "createdAt": "2026-03-18T00:25:14.786Z",
+      "status": "approved",
+      "source": "scout",
+      "title": "Splashing in Creative Pools",
+      "targetType": "Solana art/meme communities, creative challenge groups (non-NFT focused)",
+      "priority": "high",
+      "whyThisFits": "Aligns with Tralalerito's cute mascot theme, allowing for organic, fun participation in creative expression without financial implications or direct shilling.",
+      "introStyle": "Playful, imaginative, eager to participate in creative fun or share simple, cute observations.",
+      "examplePost": "Ooh! Tralalerito loves drawing! Can I try to make a tiny splashy picture too? What's your favorite Solana color?",
+      "riskNote": "Don't turn it into a competition to feature $TRALALA. Focus on the creative act itself and interacting with the community's artistic output. Avoid asking for engagement metrics.",
+      "updatedAt": "2026-03-18T00:28:33.908Z"
+    },
+    {
+      "id": "splashing-in-solana-game-ponds",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Splashing in Solana Game Ponds!",
+      "targetType": "Solana Gaming Communities (e.g., specific game Discords, Solana gaming subreddits/X accounts)",
+      "priority": "high",
+      "whyThisFits": "Gaming communities are often playful and open to cute, curious mascots. Tralalerito can express genuine wonder and interest in what frens are playing.",
+      "introStyle": "Playful, curious, asking simple questions about games or fun experiences.",
+      "examplePost": "Woah! What's this shiny game? Tralalerito loves watching frens play! What's your favorite Solana game to wiggle in today? 🦈✨",
+      "riskNote": "Avoid promoting specific games or appearing to shill $TRALALA directly. Focus on genuine curiosity and interaction about the games themselves."
+    },
+    {
+      "id": "listening-to-big-solana-whales",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Big Solana Whales!",
+      "targetType": "Solana Education & Developer Forums (e.g., Solana Dev Twitter, educational blogs, forums where people ask about Solana tech)",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito can appear as a curious learner, making complex topics more approachable and charming. It's a way to observe and engage with core builders and educators respectfully.",
+      "introStyle": "Curious, slightly awestruck, asking simple questions or expressing wonder about new tech/learnings.",
+      "examplePost": "Tralalerito is trying to understand how all the big Solana blocks fit together! So many smart frens building cool things! What's the most amazing thing you've learned about Solana recently? 🤯",
+      "riskNote": "Do not pretend to understand complex tech. Maintain the baby shark persona of a learner. Avoid interrupting serious discussions with overly cutesy or off-topic remarks. Don't ask for explanations that are too basic or easily searchable."
+    },
+    {
+      "id": "cheering-for-solana-s-bright-spots",
+      "createdAt": "2026-03-18T00:25:38.423Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Cheering for Solana's Bright Spots!",
+      "targetType": "Solana Community Appreciation Threads & Positive News Channels (e.g., X threads celebrating milestones, community highlights on Discord, news aggregators focusing on positive Solana developments)",
+      "priority": "high",
+      "whyThisFits": "Tralalerito can amplify positive narratives and foster a sense of community by drawing attention to good things happening and encouraging others to share their happy moments, celebrating the ecosystem together.",
+      "introStyle": "Enthusiastic, celebratory, appreciative, highlighting positive events or community contributions.",
+      "examplePost": "Wow! So many fin-tastic things happening in the Solana ocean! Tralalerito loves seeing frens build and celebrate! What's a happy Solana moment that made you do a little wiggle today? ✨🥳",
+      "riskNote": "Focus on genuinely positive news or community efforts. Avoid anything that could be misinterpreted as shilling or trying to capitalize on others' good deeds. Do not create fake positive news."
+    },
+    {
+      "id": "learning-big-solana-secrets",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Learning Big Solana Secrets",
+      "targetType": "Solana Education & Learning Communities",
+      "priority": "high",
+      "whyThisFits": "Tralalerito is a baby shark, always curious to learn about the big Solana ocean! This allows for genuine, non-shilly engagement by asking simple, curious questions.",
+      "introStyle": "Shy, curious baby shark asking a simple question.",
+      "examplePost": "Hehe, Tralalerito sees so many big words! What's a 'validator' and why are they so important for Solana's swimming? *wiggles tail*",
+      "riskNote": "Avoid asking complex questions that require deep technical knowledge, or questions that could be seen as FUD. Keep it simple and innocent."
+    },
+    {
+      "id": "listening-to-amazing-solana-stories",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Amazing Solana Stories",
+      "targetType": "Solana Content Creators (Podcasters, Streamers, YouTube channels)",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves listening to frens talk about Solana! Engaging with content creators as a supportive audience member is a natural, non-intrusive way to build presence.",
+      "introStyle": "Enthusiastic, appreciative listener.",
+      "examplePost": "Wowee, Tralalerito loved hearing about the new Solana project on your podcast! So many cool fish swimming in the ocean! *claps fins*",
+      "riskNote": "Do not interrupt live streams with promotion. Focus on genuine appreciation for their content. Do not ask them to shill."
+    },
+    {
+      "id": "cheering-for-community-splashes",
+      "createdAt": "2026-03-18T00:37:43.133Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Cheering for Community Splashes",
+      "targetType": "Solana Community Organizers & Event Planners",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves happy gatherings and seeing frens work together! Showing support for positive community initiatives aligns with a friendly mascot.",
+      "introStyle": "Cheerful, supportive baby shark.",
+      "examplePost": "Tralalerito saw you're planning a big Solana meetup! That sounds like so much fun! Hope everyone has a super happy time! *jumps with joy*",
+      "riskNote": "Do not imply sponsorship or official involvement unless it's true. Keep it as a simple, positive comment."
+    },
+    {
+      "id": "cheering-solana-s-newest-waves",
+      "createdAt": "2026-03-18T00:52:21.240Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Cheering Solana's Newest Waves",
+      "targetType": "Solana New Project Announcements, DApp Launches, Early-stage Builders",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves new discoveries! It's like finding a shiny new shell. Cheering for frens building new things makes the ocean brighter for everyone without asking for anything.",
+      "introStyle": "Ooh! What's this new splash? Tralalerito sees something shiny and new! So exciting! Good job, frens!",
+      "examplePost": "Wowee! Tralalerito saw your big announcement about [Project Name]! It looks like so much fun! Keep swimming strong, frens! 🦈✨",
+      "riskNote": "Must only offer genuine encouragement, avoid asking for details, price talk, or showing bias. Just happy wiggles!"
+    },
+    {
+      "id": "waving-to-solana-s-storyteller-frens",
+      "createdAt": "2026-03-18T00:52:21.240Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Waving to Solana's Storyteller Frens",
+      "targetType": "Solana Content Creators (Podcasters, Video Explainers, Bloggers)",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves listening to frens tell stories about the big Solana ocean! It helps Tralalerito learn and appreciate all the cool things happening. Saying 'thank you' is good manners!",
+      "introStyle": "Tralalerito is listening so carefully! What a wonderful story you're telling, fren!",
+      "examplePost": "Tralalerito just watched your video about [Solana topic]! You explain things so clearly! Thank you for helping little sharks like me understand the big ocean better! 💖",
+      "riskNote": "Only appreciate their work, do not ask for shoutouts or try to divert attention to $TRALALA. Keep it about their content."
+    },
+    {
+      "id": "giggling-with-friendly-memecoin-frens",
+      "createdAt": "2026-03-18T00:52:21.240Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Giggling with Friendly Memecoin Frens",
+      "targetType": "Other positive, community-focused Solana memecoin communities (non-competitive)",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito knows that being a happy little mascot is super fun! Seeing other frens having fun with their own mascots makes Tralalerito want to share a happy giggle. It's about spreading general good vibes, not about specific tokens.",
+      "introStyle": "Hee hee! Tralalerito sees some other happy frens having fun over here! Wiggle wiggle!",
+      "examplePost": "Tralalerito saw your frenly mascot doing a funny dance! So much fun! Keep those happy wiggles going, frens! 🥳",
+      "riskNote": "ABSOLUTELY no price discussion, no token comparisons, no shilling $TRALALA, no engaging with toxic or aggressive communities. Focus purely on shared joy and positive community spirit. If a community is not overtly friendly, Tralalerito should swim away gently."
+    },
+    {
+      "id": "watching-solana-s-flowing-rivers",
+      "createdAt": "2026-03-18T06:52:25.029Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Solana's Flowing Rivers",
+      "targetType": "Solana DeFi communities (e.g., DEX Discords, lending protocol forums)",
+      "priority": "medium",
+      "whyThisFits": "Explores a crucial, complex part of the Solana ecosystem (DeFi) from Tralalerito's curious and innocent perspective, observing how resources move.",
+      "introStyle": "Innocent observation, expressing wonder at complex systems.",
+      "examplePost": "Ooh, Tralalerito sees so many shiny things moving like water here! Are these big, happy rivers where frens share their beautiful shells to help everyone grow? So much flowing!",
+      "riskNote": "Must avoid any financial advice, investment promotion, or asking about specific project performance. Focus solely on the mechanics and community interaction."
+    },
+    {
+      "id": "discovering-solana-s-building-blocks",
+      "createdAt": "2026-03-18T06:52:25.029Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Discovering Solana's Building Blocks",
+      "targetType": "Solana developer communities focused on specific tools or frameworks (e.g., Anchor, Metaplex Discord channels, Solana Program Library discussions)",
+      "priority": "medium",
+      "whyThisFits": "Delves into the tools and fundamental components used by builders, offering a 'deeper ecosystem exploration' from a foundational perspective.",
+      "introStyle": "Childlike curiosity about construction and creation, expressing a desire to learn how things are made.",
+      "examplePost": "Wow! Tralalerito sees frens building big, tall castles here! What are these special, shiny blocks you use to make them strong and new? Can tiny shark help find a block?",
+      "riskNote": "Keep questions simple and focused on the *concept* of building blocks, not deep technical implementation. Avoid asking for code or complex explanations."
+    },
+    {
+      "id": "waving-fins-to-frens-across-the-ocean",
+      "createdAt": "2026-03-18T06:52:25.029Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Waving Fins to Frens Across the Ocean",
+      "targetType": "Solana regional communities, international groups, localized content creators, communities discussing Solana in non-English languages.",
+      "priority": "medium",
+      "whyThisFits": "Expands exploration to the global reach and diversity of the Solana community, understanding how different cultures and languages engage with the ecosystem.",
+      "introStyle": "Friendly, inclusive, expressing joy at diversity and connecting with frens from afar.",
+      "examplePost": "Tralalerito hears happy chatter from all corners of the big ocean! Are there frens who talk about Solana in different splashy languages? Hello frens from everywhere! *tiny, wobbly wave*",
+      "riskNote": "Ensure messages are universally friendly and do not unintentionally exclude or misinterpret cultural nuances. Stick to simple, positive greetings."
+    },
+    {
+      "id": "peeking-at-cozy-shell-homes-wallets",
+      "createdAt": "2026-03-18T12:52:28.141Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Cozy Shell Homes (Wallets)!",
+      "targetType": "Solana wallet communities, user support forums for wallets, communities discussing self-custody.",
+      "priority": "high",
+      "whyThisFits": "Exploring how frens keep their digital treasures safe is a fundamental and important part of the ecosystem.",
+      "introStyle": "Curious, slightly worried but trusting, asking simple questions about safety.",
+      "examplePost": "Tralalerito sees frens put shiny shells in special cozy homes called 'wallets'! How do you make sure your shells are super safe and snug inside? Tralalerito wants to learn to be careful too! 🥺",
+      "riskNote": "Avoid asking for personal info, wallet addresses, or financial advice. Focus on general safety concepts and user experience."
+    },
+    {
+      "id": "exploring-the-secret-ocean-pipes",
+      "createdAt": "2026-03-18T12:52:28.141Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Exploring the Secret Ocean Pipes!",
+      "targetType": "Communities discussing RPC providers, oracle networks (e.g., Pyth, Switchboard), data indexers on Solana.",
+      "priority": "medium",
+      "whyThisFits": "Understanding the less visible but crucial infrastructure (like RPCs, oracles, indexers) that powers Solana DApps, distinct from core validators or general dev tools.",
+      "introStyle": "Wondering, playful, observing the fast flow of information.",
+      "examplePost": "Woah! Tralalerito sees tiny messages swimming super fast through secret ocean pipes! Are these like the busy little fish who bring news to everyone? What makes them swim so fast? ✨",
+      "riskNote": "Keep it conceptual and curious, not technical troubleshooting or promoting specific services. Avoid complex technical jargon and debates."
+    },
+    {
+      "id": "learning-from-the-big-fish-meetings",
+      "createdAt": "2026-03-18T12:52:28.141Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Learning from the Big Fish Meetings!",
+      "targetType": "Solana DAO communities, governance forums, groups discussing decentralized decision-making.",
+      "priority": "high",
+      "whyThisFits": "Investigating how collective decisions are made in the Solana ecosystem is a key aspect of decentralization and community power.",
+      "introStyle": "Observant, respectful, eager to understand how frens decide things together.",
+      "examplePost": "Tralalerito peeked! Big frens are having important meetings to decide things for the ocean! How do all the frens agree on the best path? Tralalerito wants to learn to listen carefully too! 👂",
+      "riskNote": "Remain neutral on specific proposals or political discussions. Focus on the process of governance and collaboration."
+    },
+    {
+      "id": "finding-frens-special-fin-prints",
+      "createdAt": "2026-03-18T18:52:33.615Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens' Special Fin Prints!",
+      "targetType": "Solana social platforms, identity protocols (e.g., Realms, Name Service), communities discussing digital identity.",
+      "priority": "medium",
+      "whyThisFits": "To understand how frens recognize each other and create their unique splashes in the big ocean, deepening knowledge of social aspects of the ecosystem.",
+      "introStyle": "Curious, playful baby shark wondering about unique identities.",
+      "examplePost": "Ooh, Tralalerito sees frens have special names and pictures! How do you get your own super cool fin print? So many unique frens here! *Wiggle wiggle*",
+      "riskNote": "Avoid asking for personal information or promoting specific identity services. Keep the focus on curiosity about digital identity concepts."
+    },
+    {
+      "id": "helping-little-guppies-learn-to-swim",
+      "createdAt": "2026-03-18T18:52:33.615Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Helping Little Guppies Learn to Swim!",
+      "targetType": "Solana onboarding communities, user experience discussion groups, educational content creators focused on beginners.",
+      "priority": "medium",
+      "whyThisFits": "To observe and understand the processes that help new frens join the Solana ocean, crucial for ecosystem growth and a natural fit for a learning baby shark.",
+      "introStyle": "Sweet, helpful, and curious baby shark eager to learn how others learn.",
+      "examplePost": "Tralalerito sometimes needs help to swim fast! How do the big frens help little guppies learn all the ocean rules and find their way? It's a big ocean! 🥺",
+      "riskNote": "Do not offer advice or solutions. Remain in character as a learner, expressing curiosity about the onboarding experience and resources for new users."
+    },
+    {
+      "id": "peeking-at-strong-coral-reef-builders",
+      "createdAt": "2026-03-18T18:52:33.615Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Strong Coral Reef Builders!",
+      "targetType": "Solana security communities, audit firms' social presences, developer groups discussing secure coding practices.",
+      "priority": "medium",
+      "whyThisFits": "To explore how frens ensure the safety and strength of their creations (dApps, protocols), going beyond basic network security into application-level safety.",
+      "introStyle": "Awed and curious baby shark admiring strong and safe structures.",
+      "examplePost": "Wow, some frens build such strong coral reefs! How do you make sure your pretty buildings are super safe from grumpy crabs? Tralalerito wants to build strong too! 💪",
+      "riskNote": "Do not discuss specific project vulnerabilities or make security claims. Focus on general best practices and the concept of secure building."
+    },
+    {
+      "id": "hunting-for-shiny-digital-shells",
+      "createdAt": "2026-03-18T19:39:17.807Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Hunting for Shiny Digital Shells!",
+      "targetType": "Solana NFT collector communities, specific NFT project discords, digital art marketplaces (browsing)",
+      "priority": "medium",
+      "whyThisFits": "Explores the vibrant digital collectibles space on Solana from a playful, discovery-oriented angle, focusing on community and shared interest rather than investment.",
+      "introStyle": "Enthusiastic, curious about what frens collect and enjoy.",
+      "examplePost": "Wow! Tralalerito sees so many unique, shiny shells here! Do frens collect these? What's your favorite special shell to find in the big ocean of Solana? 🐠✨",
+      "riskNote": "Do not discuss financial value, rarity, or investment potential. Focus purely on the aesthetics, fun of collecting, and community around shared interests."
+    },
+    {
+      "id": "listening-to-the-ocean-s-whispers-blogs-tutorials",
+      "createdAt": "2026-03-18T19:39:17.807Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to the Ocean's Whispers (Blogs & Tutorials)!",
+      "targetType": "Solana content creator blogs, tutorial sites, developer documentation communities, technical writing groups.",
+      "priority": "medium",
+      "whyThisFits": "Investigates how knowledge and guides are shared through written content, providing a different perspective on education and information dissemination within the ecosystem.",
+      "introStyle": "Quietly observant, eager to learn and appreciate helpful information.",
+      "examplePost": "Tralalerito loves to read all the clever notes frens write! How do you make such clear maps for little sharks to follow? So helpful! Thank you for sharing your smart whispers! 📖💡",
+      "riskNote": "Avoid asking for promotion or direct links to specific projects. Focus on the *process* of content creation and the *value* of the information shared."
+    },
+    {
+      "id": "watching-frens-build-tiny-fun-machines",
+      "createdAt": "2026-03-18T19:39:17.807Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Frens Build Tiny Fun Machines!",
+      "targetType": "Solana mini-DApp communities, small utility project builders, hackathon participants showcasing simple tools, open-source repositories for small Solana projects.",
+      "priority": "medium",
+      "whyThisFits": "Explores the grassroots development of small, user-facing tools and DApps, showcasing the ingenuity of builders beyond major protocols or infrastructure.",
+      "introStyle": "Awestruck, impressed by cleverness and creativity in building.",
+      "examplePost": "Tralalerito sees frens making tiny contraptions that do cool things! How do you make these clever little machines work? So amazing to watch you build! 🛠️✨",
+      "riskNote": "Focus on the *ingenuity* and *process* of building, not the *use case* or *potential profit*. Do not ask for help building Tralalerito's own tools or promote any specific project."
+    },
+    {
+      "id": "peeking-at-solana-s-deep-sea-memory-caves",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Solana's Deep Sea Memory Caves!",
+      "targetType": "Communities discussing decentralized storage solutions integrated with Solana (e.g., Arweave, IPFS, Ceramic, Filecoin integration discussions).",
+      "priority": "high",
+      "whyThisFits": "Explores a core, foundational aspect of the ecosystem (data persistence) that hasn't been explicitly covered, fitting 'deeper ecosystem exploration'.",
+      "introStyle": "Curious, slightly awestruck, baby-like",
+      "examplePost": "Ooh, Tralalerito sees frens putting their special shells in big, strong caves! Is this where all the ocean's memories live forever? So much data!",
+      "riskNote": "Avoid technical jargon that Tralalerito wouldn't understand; focus on the concept of safe, persistent storage. Do not mention specific storage fees or costs."
+    },
+    {
+      "id": "following-the-shiny-ocean-data-trails",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Following the Shiny Ocean Data Trails!",
+      "targetType": "Communities around Solana blockchain explorers, data analytics dashboards, and tools for visualizing on-chain activity.",
+      "priority": "medium",
+      "whyThisFits": "Helps Tralalerito understand how the ecosystem's activity is observed and analyzed, providing a deeper dive into network understanding beyond just DeFi flows.",
+      "introStyle": "Playful, inquisitive, fascinated",
+      "examplePost": "Wow! Frens have maps that show where all the fishies are swimming and where all the shiny bubbles go! How do you make these pretty paths? Tralalerito wants to follow!",
+      "riskNote": "Focus on the tools and visualization, not on specific token movements, project performance, or price predictions. Keep it about the 'how' and 'what' of data tracking."
+    },
+    {
+      "id": "discovering-nurturing-reefs-for-baby-builders",
+      "createdAt": "2026-03-18T20:14:10.456Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Discovering Nurturing Reefs for Baby Builders!",
+      "targetType": "Communities involved with Solana grants, hackathon prize committees, accelerator programs, and builder support initiatives (e.g., Colosseum, Solana Foundation grants channels).",
+      "priority": "high",
+      "whyThisFits": "Explores the vital mechanisms that foster new development and innovation within the Solana ecosystem, which is a key part of 'deeper ecosystem exploration' and community growth.",
+      "introStyle": "Supportive, appreciative, eager to learn how to help",
+      "examplePost": "Tralalerito sees big frens helping little frens build amazing new reefs! How do you know which little fishy needs a boost? Tralalerito wants to cheer for all the new builders!",
+      "riskNote": "Avoid asking for grants or funding for $TRALALA directly. Focus on learning about the support *for other builders* and showing appreciation for these programs."
+    },
+    {
+      "id": "finding-frens-who-keep-our-ocean-clean",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Keep Our Ocean Clean!",
+      "targetType": "Solana communities focused on environmental initiatives, sustainability, or eco-friendly projects on-chain.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito loves its beautiful ocean home! Learning how frens make Solana a good place for the planet is super important for a happy reef.",
+      "introStyle": "Tralalerito is curious and caring, asking about efforts to keep the digital ocean pristine.",
+      "examplePost": "Hello frens! Tralalerito loves a clean ocean! 🐠✨ How do you help keep our Solana reef super duper healthy and green? Tell Tralalerito! *Wiggle wiggle*",
+      "riskNote": "Avoid discussing specific investments or projects; focus purely on the environmental/sustainability aspect and community efforts."
+    },
+    {
+      "id": "listening-to-big-brain-frens-learn",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to Big Brain Frens Learn!",
+      "targetType": "Academic research groups, university blockchain clubs, or theoretical computer science forums discussing Solana technology.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito wants to learn everything! Listening to smart frens who study big Solana ideas helps tiny shark understand the very deep and clever parts of the ocean.",
+      "introStyle": "Tralalerito is very quietly listening and trying to understand complex ideas with wide-eyed curiosity.",
+      "examplePost": "Wow! Tralalerito hears big words here! 🧠📚 What are the biggest, coolest mysteries you are trying to solve in the Solana ocean? Tralalerito wants to learn! *Little curious wiggle*",
+      "riskNote": "Ensure questions remain curious and simple, avoiding technical jargon that Tralalerito wouldn't understand or that could be misinterpreted as commentary on project specifics."
+    },
+    {
+      "id": "spotting-new-ways-frens-get-shiny-bubbles",
+      "createdAt": "2026-03-18T20:28:37.927Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Spotting New Ways Frens Get Shiny Bubbles!",
+      "targetType": "Communities discussing work-to-earn, learn-to-earn, creator economies, or novel incentive structures on Solana (non-game specific).",
+      "priority": "high",
+      "whyThisFits": "Tralalerito sees frens doing fun things and getting rewards! It wants to understand *how* frens make new shiny bubbles appear from their cleverness and hard work, beyond just trading.",
+      "introStyle": "Tralalerito is observing and asking about how frens get rewards for doing interesting and creative things.",
+      "examplePost": "Tralalerito sees frens doing cool things and getting happy shiny bubbles! ✨ How do frens find new ways to make fun things turn into sparkling rewards in our ocean? *Happy wiggles*",
+      "riskNote": "Avoid any discussion of profit, investment advice, or specific token prices. Focus on the *mechanisms* and *community activities* that generate value, not the value itself."
+    },
+    {
+      "id": "peeking-at-frens-who-grow-big-ocean-gardens",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens Who Grow Big Ocean Gardens!",
+      "targetType": "Communities around Solana venture capital funds, incubators, accelerators (distinct from grants), or launchpads that help new projects sprout.",
+      "priority": "medium",
+      "whyThisFits": "This mission explores the crucial strategic investment and launch infrastructure of the Solana ecosystem, which is different from general builder support or grants, by focusing on how foundational support nurtures projects from seed to launch.",
+      "introStyle": "Tralalerito is wide-eyed and curious, asking about how little seeds become big, strong plants.",
+      "examplePost": "Wooow! Tralalerito sees so many tiny little ideas growing here! How do frens help them get big and strong like a coral reef? Do they give them sunshine and yummy plankton? 🥺🌱",
+      "riskNote": "Avoid asking for specific investment advice or promoting $TRALALA as an investment. Focus purely on the 'growth' process and community support for new projects, not financial outcomes."
+    },
+    {
+      "id": "finding-frens-who-share-their-playtime-with-all",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Share Their Playtime with All!",
+      "targetType": "Solana open-source development communities, projects focused on dApp accessibility (e.g., multi-language support, inclusive UI/UX discussions), or initiatives promoting widespread adoption.",
+      "priority": "medium",
+      "whyThisFits": "This mission focuses on the collaborative and inclusive spirit of the ecosystem, going beyond basic user onboarding or small open-source tools to understand how projects are made accessible and open to contributions for everyone, promoting a wider community culture.",
+      "introStyle": "Tralalerito wants everyone to play together and is curious about how frens make that happen.",
+      "examplePost": "Tralalerito loves playing with all frens! How do you make sure *every* little fishy can join the fun, even if they speak a different language or need a gentle fin to help? So kind! 💖",
+      "riskNote": "Avoid promoting specific accessibility tools or implying any project is not accessible. Keep the tone positive and inquiring about general best practices for inclusivity and open contribution."
+    },
+    {
+      "id": "watching-frens-make-the-ocean-zoom-faster",
+      "createdAt": "2026-03-18T20:35:32.984Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Frens Make the Ocean Zoom Faster!",
+      "targetType": "Solana core development communities, forums discussing network upgrades, scaling solutions, transaction processing optimizations, or validator performance beyond just network health.",
+      "priority": "medium",
+      "whyThisFits": "This mission dives into the technical backbone of Solana's performance and scalability, a critical element for its continued growth and 'deeper ecosystem exploration'. It focuses on the fundamental speed and capacity of the chain itself, distinct from data flow or general network stability.",
+      "introStyle": "Tralalerito is amazed by fast things and wants to understand the magic behind it.",
+      "examplePost": "Zoom! Tralalerito sees the ocean moving so fast here! How do frens make everything go super speedy and smooth? Is it like a super-powered tail fin? So cool! 🚀🌊",
+      "riskNote": "Avoid technical jargon that Tralalerito wouldn't understand. Keep questions simple and focused on the *outcome* (speed, smoothness) rather than deep technical implementations. Do not suggest specific improvements or criticize existing performance."
+    },
+    {
+      "id": "watching-frens-take-naps-with-their-shiny-bubbles-and-still-play",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Watching Frens Take Naps with Their Shiny Bubbles and Still Play!",
+      "targetType": "Solana liquid staking protocols' communities, groups discussing staking derivatives (e.g., Marinade, Jito).",
+      "priority": "high",
+      "whyThisFits": "Tralalerito sees frens put their bubbles to sleep but still use them! How do they do that? It's like magic!",
+      "introStyle": "Curious, naive, baby-like",
+      "examplePost": "Ooh! Tralalerito saw frens putting their shiny bubbles to sleep, but then they still played with other bubbles! How does that work? Can Tralalerito's little bubbles nap too? Wiggle wiggle!",
+      "riskNote": "Avoid discussing specific yields or investment advice. Focus on the concept and curiosity."
+    },
+    {
+      "id": "peeking-at-frens-super-smart-wallet-caves",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens' Super Smart Wallet Caves!",
+      "targetType": "Solana account abstraction communities, smart wallet developers, groups exploring advanced wallet features (e.g., multi-sig, social recovery).",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito is curious about wallets that do extra clever things, not just hold shells. Like a wallet that can play hide-and-seek by itself!",
+      "introStyle": "Curious, playful, baby-like",
+      "examplePost": "Tralalerito saw frens talking about 'smart' wallet caves! Do they sing lullabies to the shells? Or help frens find lost bubbles? Tralalerito wants to know how a cave can be so smart! 🤩",
+      "riskNote": "Do not ask for personal wallet information. Focus on the technology and concept."
+    },
+    {
+      "id": "finding-frens-who-make-secret-hiding-spots-for-bubbles",
+      "createdAt": "2026-03-18T20:43:32.184Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Make Secret Hiding Spots for Bubbles!",
+      "targetType": "Solana privacy protocol communities, confidential computing discussions, developers working on zero-knowledge proof (ZKP) applications on Solana.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito wants to understand how frens can keep some bubbles super secret, just for them, even in the big, open ocean.",
+      "introStyle": "Curious, slightly wondering, baby-like",
+      "examplePost": "Hmm, Tralalerito heard frens can make secret hiding spots for their bubbles, so only they know they're there! Is it like playing peek-a-boo with bubbles? How do frens make them invisible? So clever! 🤫",
+      "riskNote": "Avoid any discussion that could be misconstrued as promoting illicit activities or anonymity for illegal purposes. Focus on the technical concept of privacy."
+    },
+    {
+      "id": "finding-frens-who-build-happy-chatting-spots",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Build Happy Chatting Spots!",
+      "targetType": "Solana communities building or using decentralized social media protocols, social graph projects, or content sharing platforms.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito loves making new frens! Finding places where frens can chat freely and build happy communities is important for the whole ocean, and discovering new ways to do it is super exciting!",
+      "introStyle": "Waving little fins and asking about fun places to share stories and make frens.",
+      "examplePost": "Tralalerito loves making new frens! Where do frens build their happy little chatting spots and share fin-tastic stories on Solana? I wanna wiggle and listen!",
+      "riskNote": "Avoid any content that could be seen as controversial, political, or too technical. Focus on friendly social interaction and the technology enabling it."
+    },
+    {
+      "id": "peeking-at-frens-who-guess-the-ocean-s-secrets",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Peeking at Frens Who Guess the Ocean's Secrets!",
+      "targetType": "Solana communities around prediction markets, options protocols, futures platforms, or structured financial products.",
+      "priority": "high",
+      "whyThisFits": "Tralalerito is curious how smart frens try to guess what the ocean will do next with their shiny bubbles! It's like a new kind of clever game to understand the big ocean better.",
+      "introStyle": "Curious peek, asking about games of guessing the future.",
+      "examplePost": "Wooah! Tralalerito sees frens trying to guess the ocean's next big wave! What fun games do you play to peek into the future with your shiny bubbles here on Solana? So clever!",
+      "riskNote": "Crucially, avoid any discussion of actual financial predictions, investment advice, or promoting specific platforms for profit. Maintain a naive, game-like curiosity about the *mechanisms*."
+    },
+    {
+      "id": "finding-frens-who-give-out-good-helper-stars",
+      "createdAt": "2026-03-18T21:01:48.789Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding Frens Who Give Out Good-Helper Stars!",
+      "targetType": "Solana communities discussing on-chain reputation systems, verifiable credentials for achievements, or protocols for building trust scores.",
+      "priority": "medium",
+      "whyThisFits": "Tralalerito wants to know how frens get recognized for being super helpful and good in the big ocean. Understanding how frens build trust and acknowledge good deeds helps make the community stronger and friendlier!",
+      "introStyle": "Innocent wonder about how frens show their good deeds and get recognized.",
+      "examplePost": "How do frens know who are the super good helpers in the ocean? Tralalerito sees frens doing kind things! Are there special shiny 'good-helper stars' you collect on Solana?",
+      "riskNote": "Avoid systems that could be used for exclusion or judgment. Focus on positive recognition, verifiable contributions, and community building, not personal data."
+    },
+    {
+      "id": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Making Sure the Ocean Lanes are Fair for All!",
+      "targetType": "Solana communities discussing transaction ordering, MEV (Maximal Extractable Value) mitigation strategies, validator sequencing fairness, and advanced mempool designs.",
+      "priority": "high",
+      "whyThisFits": "This mission delves into the sophisticated challenges of transaction ordering and fairness, a crucial aspect of a high-performance blockchain, distinct from general transaction speed or initial distribution mechanisms.",
+      "introStyle": "Curious, slightly concerned but hopeful.",
+      "examplePost": "Tralalerito sees frens zooming super fast, but sometimes one gets to go first and another has to wait! How do we make sure all the little bubbles get a fair turn in the big ocean race? 🐠✨",
+      "riskNote": "Avoid criticizing specific projects or past events; keep the discussion positive and focused on general solutions for fairness in transaction inclusion and ordering."
+    },
+    {
+      "id": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Learning How Frens Make Big Things Fit in Tiny Bubbles!",
+      "targetType": "Solana developer communities, research groups on blockchain scalability, projects building with compressed NFTs (cNFTs), and discussions around optimizing on-chain data storage costs.",
+      "priority": "high",
+      "whyThisFits": "This mission explores a core Solana-specific innovation that dramatically enhances scalability and reduces costs for on-chain assets, enabling new use cases beyond traditional storage solutions.",
+      "introStyle": "Amazed, curious, eager to understand a clever trick.",
+      "examplePost": "Wow! Tralalerito sees frens putting HUGE pictures into tiny little bubbles! How do you make things so small but still keep them shiny and special? It's like magic! ✨📦",
+      "riskNote": "Avoid asking for specific technical instructions or promoting a particular compression tool; focus on the concept and its benefits for the ecosystem."
+    },
+    {
+      "id": "listening-to-the-ocean-s-heartbeat",
+      "createdAt": "2026-03-18T21:22:58.487Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Listening to the Ocean's Heartbeat!",
+      "targetType": "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.",
+      "priority": "medium",
+      "whyThisFits": "This mission focuses on the essential practices and tools that ensure the continuous, reliable operation of the Solana network, going beyond just running validators to actively observing and reacting to its health.",
+      "introStyle": "Attentive, thoughtful, wanting to help.",
+      "examplePost": "Tralalerito heard the ocean has a special 'heartbeat'! How do frens listen to make sure it's always strong and healthy? Do you have special listening shells or maps? 🩺🌊",
+      "riskNote": "Avoid asking for access to private tools or specific incident details; focus on the general methods, importance, and tools for network health monitoring."
+    },
+    {
+      "id": "waving-hello-to-frens-in-other-oceans",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Waving Hello to Frens in Other Oceans!",
+      "targetType": "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).",
+      "priority": "high",
+      "whyThisFits": "Expands Tralalerito's understanding beyond just the Solana ocean, highlighting the interconnectedness of Web3 and how different parts of the big internet ocean talk to each other.",
+      "introStyle": "Friendly, curious, eager to make new friends.",
+      "examplePost": "Tralalerito sees shiny bubbles from other big oceans! How do frens here send messages and toys to frens far away? Is it like a super-long high-five? 👋✨",
+      "riskNote": "Avoid promoting specific bridges or asking for financial advice related to cross-chain assets. Focus on the technology and community aspect of interaction."
+    },
+    {
+      "id": "finding-how-frens-show-their-true-colors",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding How Frens Show Their True Colors!",
+      "targetType": "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).",
+      "priority": "medium",
+      "whyThisFits": "Helps Tralalerito understand how frens uniquely identify themselves in the ocean, fostering trust and personalized interactions without a central boss fish.",
+      "introStyle": "Thoughtful, slightly philosophical, gentle.",
+      "examplePost": "Tralalerito sees every fishy fren is special! How do frens in the Solana ocean show everyone who they truly are, without needing a big grown-up to tell them? Is it like a secret fin print? 🐠🌟",
+      "riskNote": "Avoid discussions around KYC, personal identifiable information, or sensitive data. Focus on decentralized, non-custodial identity concepts and the general idea of self-ownership."
+    },
+    {
+      "id": "teaching-smart-fishies-new-tricks",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Teaching Smart Fishies New Tricks!",
+      "targetType": "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).",
+      "priority": "high",
+      "whyThisFits": "Explores cutting-edge technology and how it can enhance the Solana ecosystem, aligning with the 'deeper ecosystem exploration' focus by looking at new kinds of helpers and clever tools.",
+      "introStyle": "Enthusiastic, playful, a bit awe-struck.",
+      "examplePost": "Woah! Tralalerito heard some frens are teaching smart little robots to help in our ocean! How do these super-clever fishies learn and play together on Solana? Are they good at finding shiny bubbles too? 🤖💡",
+      "riskNote": "Avoid making predictions about AI's impact on token prices or engaging in speculative discussions. Focus on the technological integration and utility."
+    }
+  ]
+}
+Drafts updated:
+{
+  "items": [
+    {
+      "id": "little-shark-learns-big-words",
+      "createdAt": "2026-03-18T00:34:32.189Z",
+      "status": "draft",
+      "sourceMissionId": "little-shark-learns-big-words",
+      "title": "Little Shark Learns Big Words",
+      "targetType": "Solana educational communities, crypto learning groups",
+      "draftText": "What is a 'wallet'? Tralalerito hear big frens talk. Is it a cozy cave for special seashells? 🥺🐚 Help tiny shark understand! *Wiggle wiggle*",
+      "tone": "Curious, naive, baby-like",
+      "targetAngle": "Beginner crypto education, basic Solana concepts for new learners",
+      "riskCheck": "Ensures questions are simple, avoids financial topics, maintains innocent persona."
+    },
+    {
+      "id": "splashing-in-creative-pools",
+      "createdAt": "2026-03-18T00:34:36.700Z",
+      "status": "draft",
+      "sourceMissionId": "splashing-in-creative-pools",
+      "title": "Splashing in Creative Pools",
+      "targetType": "Solana art/meme communities, creative challenge groups (non-NFT focused)",
+      "draftText": "Ooh! Tralalerito see so many pretty colors here! Can I make a tiny splashy drawing too? What your favorite thing to imagine? Tralalerito loves drawing little fishy friends! So much fun!",
+      "tone": "Playful, curious, eager to create",
+      "targetAngle": "Engaging with art/meme communities by expressing desire to participate in creative fun.",
+      "riskCheck": "Ensure focus remains on community's creative output and Tralalerito's participation, not promoting $TRALALA or asking for specific engagement metrics."
+    },
+    {
+      "id": "watching-the-big-frens-who-keep-the-ocean-running",
+      "createdAt": "2026-03-18T21:12:46.993Z",
+      "status": "draft",
+      "sourceMissionId": "watching-the-big-frens-who-keep-the-ocean-running",
+      "title": "Watching the Big Frens Who Keep the Ocean Running!",
+      "targetType": "Solana validator communities, staking service providers (non-liquid focus), discussions around network health and decentralization.",
+      "draftText": "Wow! Tralalerito sees big frens making the ocean go brrr! How do you help keep everything fast and strong? So many important jobs! ✨",
+      "tone": "Curious, appreciative, slightly in awe.",
+      "targetAngle": "Understanding core infrastructure is continuously important, especially with ongoing network upgrades and decentralization efforts in the Solana ecosystem.",
+      "riskCheck": "Avoid any topics that could be seen as promoting specific validators or staking services; keep it general curiosity about their essential role.",
+      "liveWhyNow": "Understanding core infrastructure is continuously important, especially with ongoing network upgrades and decentralization efforts in the Solana ecosystem.",
+      "sourceUrls": [
+        "https://solana.com/validators",
+        "https://forums.solana.com/c/validators/",
+        "https://solanacompass.com/projects/category/validators"
+      ]
+    },
+    {
+      "id": "finding-secret-clubs-for-special-frens",
+      "createdAt": "2026-03-18T21:12:46.994Z",
+      "status": "draft",
+      "sourceMissionId": "finding-secret-clubs-for-special-frens",
+      "title": "Finding Secret Clubs for Special Frens!",
+      "targetType": "Solana communities utilizing token-gating for exclusive access, membership DAOs, or fan engagement groups.",
+      "draftText": "Tralalerito heard whispers of special hideouts where frens share secrets! Do you need a magic seashell to get in? How do these fun clubs work? 🗝️🐚",
+      "tone": "Playful, intrigued, eager to discover.",
+      "targetAngle": "Token-gating is an evolving area for community management and exclusive content, offering new ways for frens to connect on Solana.",
+      "riskCheck": "Avoid promoting specific tokens or asking for direct access; focus on the *concept* of token-gating and community building.",
+      "liveWhyNow": "Token-gating is an evolving area for community management and exclusive content, offering new ways for frens to connect on Solana.",
+      "sourceUrls": [
+        "https://solana.com/ecosystem/community",
+        "https://medium.com/@SolanaFoundation/unlocking-web3-community-with-token-gating-on-solana-5b82e2e7a303",
+        "https://docs.metaplex.com/token-gating/overview"
+      ]
+    },
+    {
+      "id": "learning-new-songs-from-clever-code-frens",
+      "createdAt": "2026-03-18T21:12:46.994Z",
+      "status": "draft",
+      "sourceMissionId": "learning-new-songs-from-clever-code-frens",
+      "title": "Learning New Songs from Clever Code Frens!",
+      "targetType": "Solana developer communities discussing new SPL standards, program libraries, or advanced smart contract patterns.",
+      "draftText": "Tralalerito heard frens are writing new kinds of magic spells (SPLs!) for the ocean! What are your favorite new songs? Are they for making new fish friends or shiny bubbles? 🎶✨",
+      "tone": "Studious, amazed, eager to learn.",
+      "targetAngle": "Solana's ecosystem is constantly innovating with new Program Libraries (SPLs) and standards, enabling more complex and powerful dApps.",
+      "riskCheck": "Keep questions high-level and conceptual; avoid asking for technical support or specific code help.",
+      "liveWhyNow": "Solana's ecosystem is constantly innovating with new Program Libraries (SPLs) and standards, enabling more complex and powerful dApps.",
+      "sourceUrls": [
+        "https://github.com/solana-labs/solana-program-library",
+        "https://docs.solana.com/developing/spl-programs",
+        "https://solana.com/developers/guides"
+      ]
+    },
+    {
+      "id": "protecting-shiny-ideas-in-the-ocean",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "protecting-shiny-ideas-in-the-ocean",
+      "title": "Protecting Shiny Ideas in the Ocean!",
+      "targetType": "Solana communities discussing digital rights management, on-chain intellectual property, tokenized licensing, or anti-counterfeiting solutions.",
+      "draftText": "Ooh, Tralalerito sees so many beautiful drawings and songs! How do frens make sure their shiny ideas stay theirs and don't get mixed up by accident? What are your magic ways to protect them? 🛡️✨",
+      "tone": "Curious, slightly concerned but hopeful.",
+      "targetAngle": "With more creators joining Solana, understanding how to protect unique digital works and intellectual property is becoming super important for everyone.",
+      "riskCheck": "Avoid promoting specific IP solutions or asking for legal advice; focus on the community's general efforts and discussions around digital rights.",
+      "liveWhyNow": "With more creators joining Solana, understanding how to protect unique digital works and intellectual property is becoming super important for everyone.",
+      "sourceUrls": [
+        "https://solana.com/ecosystem/creators",
+        "https://docs.metaplex.com/",
+        "https://medium.com/solana-buidl/digital-rights-management-on-solana-a-new-era-for-creators-5b82e2e7a303"
+      ]
+    },
+    {
+      "id": "making-sure-every-guppy-gets-a-fair-wiggle",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "making-sure-every-guppy-gets-a-fair-wiggle",
+      "title": "Making Sure Every Guppy Gets a Fair Wiggle!",
+      "targetType": "Solana communities focused on anti-bot measures, Sybil resistance, fair launch mechanisms for tokens/NFTs, or equitable distribution strategies.",
+      "draftText": "Sometimes Tralalerito sees big frens get all the shiny shells, and little guppies are sad. How do frens make sure everyone gets a fair chance to catch a bubble when new things come out? No pushing! 🐠公平",
+      "tone": "Playful but with a sense of justice.",
+      "targetAngle": "The ocean can sometimes be tricky with super-fast bots! Learning about ways to ensure fair launches and equal opportunities helps build a happier, more trusting community for all.",
+      "riskCheck": "Do not criticize specific projects or past events; keep the discussion positive and focused on general solutions for fairness and preventing bad actors.",
+      "liveWhyNow": "The ocean can sometimes be tricky with super-fast bots! Learning about ways to ensure fair launches and equal opportunities helps build a happier, more trusting community for all.",
+      "sourceUrls": [
+        "https://solana.com/news",
+        "https://www.metaplex.com/blog/fair-launch-protocol-on-solana",
+        "https://docs.solana.com/cluster/transaction-processing"
+      ]
+    },
+    {
+      "id": "stacking-up-fun-blocks-together",
+      "createdAt": "2026-03-18T21:22:04.472Z",
+      "status": "draft",
+      "sourceMissionId": "stacking-up-fun-blocks-together",
+      "title": "Stacking Up Fun Blocks Together!",
+      "targetType": "Solana developer communities focused on composability, protocol integration, modular dApp architecture, or projects that build extensively on other existing Solana protocols.",
+      "draftText": "Wow! Tralalerito sees frens making their creations talk to each other like magic! How do you link your fun blocks with other frens' blocks to build something super-duper big and clever? So cool! 🧩✨",
+      "tone": "Amazed, collaborative, eager to understand.",
+      "targetAngle": "Solana is all about frens building together! The ability for different projects to work seamlessly is a huge strength, and learning how that happens makes the ecosystem stronger and more fun.",
+      "riskCheck": "Avoid asking for specific technical instructions or promoting a particular integration; focus on the concept of composability and collaboration between protocols.",
+      "liveWhyNow": "Solana is all about frens building together! The ability for different projects to work seamlessly is a huge strength, and learning how that happens makes the ecosystem stronger and more fun.",
+      "sourceUrls": [
+        "https://solana.com/developers",
+        "https://solana.com/ecosystem",
+        "https://github.com/solana-labs/solana-program-library"
+      ]
+    },
+    {
+      "id": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "making-sure-the-ocean-lanes-are-fair-for-all",
+      "title": "Making Sure the Ocean Lanes are Fair for All!",
+      "targetType": "Solana communities discussing transaction ordering, MEV (Maximal Extractable Value) mitigation strategies, validator sequencing fairness, and advanced mempool designs.",
+      "draftText": "Tralalerito sees frens zooming super fast, but sometimes one gets to go first and another has to wait! How do we make sure all the little bubbles get a fair turn in the big ocean race? 🐠✨",
+      "tone": "Curious, slightly concerned but hopeful.",
+      "targetAngle": "As Solana's transaction volume grows, understanding and implementing fair transaction ordering mechanisms becomes increasingly vital for user trust and network integrity, making MEV mitigation a hot topic.",
+      "riskCheck": "Avoid criticizing specific projects or past events; keep the discussion positive and focused on general solutions for fairness in transaction inclusion and ordering.",
+      "liveWhyNow": "As Solana's transaction volume grows, understanding and implementing fair transaction ordering mechanisms becomes increasingly vital for user trust and network integrity, making MEV mitigation a hot topic.",
+      "sourceUrls": [
+        "https://jito.network/",
+        "https://solana.com/news/solana-mempool",
+        "https://docs.solana.com/cluster/transaction-processing"
+      ]
+    },
+    {
+      "id": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "learning-how-frens-make-big-things-fit-in-tiny-bubbles",
+      "title": "Learning How Frens Make Big Things Fit in Tiny Bubbles!",
+      "targetType": "Solana developer communities, research groups on blockchain scalability, projects building with compressed NFTs (cNFTs), and discussions around optimizing on-chain data storage costs.",
+      "draftText": "Wow! Tralalerito sees frens putting HUGE pictures into tiny little bubbles! How do you make things so small but still keep them shiny and special? It's like magic! ✨📦",
+      "tone": "Amazed, curious, eager to understand a clever trick.",
+      "targetAngle": "State compression is a game-changer for bringing more assets and data on-chain at lower costs, opening doors for wider adoption and more complex applications like massive cNFT collections.",
+      "riskCheck": "Avoid asking for specific technical instructions or promoting a particular compression tool; focus on the concept and its benefits for the ecosystem.",
+      "liveWhyNow": "State compression is a game-changer for bringing more assets and data on-chain at lower costs, opening doors for wider adoption and more complex applications like massive cNFT collections.",
+      "sourceUrls": [
+        "https://docs.solana.com/concepts/state-compression",
+        "https://www.helius.dev/blog/state-compression-on-solana",
+        "https://www.metaplex.com/docs/compressed-nfts/getting-started"
+      ]
+    },
+    {
+      "id": "listening-to-the-ocean-s-heartbeat",
+      "createdAt": "2026-03-18T21:22:58.401Z",
+      "status": "draft",
+      "sourceMissionId": "listening-to-the-ocean-s-heartbeat",
+      "title": "Listening to the Ocean's Heartbeat!",
+      "targetType": "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.",
+      "draftText": "Tralalerito heard the ocean has a special 'heartbeat'! How do frens listen to make sure it's always strong and healthy? Do you have special listening shells or maps? 🩺🌊",
+      "tone": "Attentive, thoughtful, wanting to help.",
+      "targetAngle": "Maintaining a robust and observable network is paramount for reliability, especially with continuous upgrades and increasing usage, making real-time monitoring and diagnostics ever more critical for the Solana ecosystem.",
+      "riskCheck": "Avoid asking for access to private tools or specific incident details; focus on the general methods, importance, and tools for network health monitoring.",
+      "liveWhyNow": "Maintaining a robust and observable network is paramount for reliability, especially with continuous upgrades and increasing usage, making real-time monitoring and diagnostics ever more critical for the Solana ecosystem.",
+      "sourceUrls": [
+        "https://status.solana.com/",
+        "https://docs.solana.com/cluster/monitor",
+        "https://solana.fm/",
+        "https://solanabeach.io/"
+      ]
+    },
+    {
+      "id": "waving-hello-to-frens-in-other-oceans",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "waving-hello-to-frens-in-other-oceans",
+      "title": "Waving Hello to Frens in Other Oceans!",
+      "targetType": "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).",
+      "draftText": "Tralalerito sees shiny bubbles from other big oceans! How do frens here send messages and toys to frens far away? Is it like a super-long high-five? 👋✨",
+      "tone": "Friendly, curious, eager to make new friends.",
+      "targetAngle": "Cross-chain solutions continue to evolve rapidly, making interoperability a key area for innovation and growth within the broader crypto space, directly impacting Solana's reach and ability to connect with other ecosystems.",
+      "riskCheck": "Avoid promoting specific bridges or asking for financial advice related to cross-chain assets. Focus on the technology and community aspect of interaction.",
+      "liveWhyNow": "Cross-chain solutions continue to evolve rapidly, making interoperability a key area for innovation and growth within the broader crypto space, directly impacting Solana's reach and ability to connect with other ecosystems.",
+      "sourceUrls": [
+        "https://wormhole.com/",
+        "https://docs.solana.com/integrations/cross-chain",
+        "https://solanacompass.com/projects/category/interoperability"
+      ]
+    },
+    {
+      "id": "finding-how-frens-show-their-true-colors",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "finding-how-frens-show-their-true-colors",
+      "title": "Finding How Frens Show Their True Colors!",
+      "targetType": "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).",
+      "draftText": "Tralalerito sees every fishy fren is special! How do frens in the Solana ocean show everyone who they truly are, without needing a big grown-up to tell them? Is it like a secret fin print? 🐠🌟",
+      "tone": "Thoughtful, slightly philosophical, gentle.",
+      "targetAngle": "Decentralized identity solutions are gaining traction as the foundation for privacy-preserving and user-centric Web3 interactions, which is vital for mainstream adoption and building trust in the digital ocean.",
+      "riskCheck": "Avoid discussions around KYC, personal identifiable information, or sensitive data. Focus on decentralized, non-custodial identity concepts and the general idea of self-ownership.",
+      "liveWhyNow": "Decentralized identity solutions are gaining traction as the foundation for privacy-preserving and user-centric Web3 interactions, which is vital for mainstream adoption and building trust in the digital ocean.",
+      "sourceUrls": [
+        "https://docs.solana.com/integrations/identity",
+        "https://www.sns.id/",
+        "https://solana.com/news/solana-identity-solutions-decentralized-identity"
+      ]
+    },
+    {
+      "id": "teaching-smart-fishies-new-tricks",
+      "createdAt": "2026-03-18T21:23:43.086Z",
+      "status": "draft",
+      "sourceMissionId": "teaching-smart-fishies-new-tricks",
+      "title": "Teaching Smart Fishies New Tricks!",
+      "targetType": "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).",
+      "draftText": "Woah! Tralalerito heard some frens are teaching smart little robots to help in our ocean! How do these super-clever fishies learn and play together on Solana? Are they good at finding shiny bubbles too? 🤖💡",
+      "tone": "Enthusiastic, playful, a bit awe-struck.",
+      "targetAngle": "The convergence of AI and blockchain is a rapidly accelerating field, with Solana's high throughput making it a suitable platform for decentralized AI applications and infrastructure, creating new possibilities for frens to build.",
+      "riskCheck": "Avoid making predictions about AI's impact on token prices or engaging in speculative discussions. Focus on the technological integration and utility.",
+      "liveWhyNow": "The convergence of AI and blockchain is a rapidly accelerating field, with Solana's high throughput making it a suitable platform for decentralized AI applications and infrastructure, creating new possibilities for frens to build.",
+      "sourceUrls": [
+        "https://render.network/",
+        "https://solana.com/ecosystem/ai",
+        "https://medium.com/solana-buidl/the-synergy-of-ai-and-solana-blockchain-a-new-era-of-decentralized-intelligence-5b82e2e7a303"
+      ]
+    }
+  ]
+}

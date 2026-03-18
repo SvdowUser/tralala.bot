@@ -50,7 +50,10 @@
     "Stacking Up Fun Blocks Together!": "2026-03-19T21:22:04.472Z",
     "Making Sure the Ocean Lanes are Fair for All!": "2026-03-19T21:22:58.401Z",
     "Learning How Frens Make Big Things Fit in Tiny Bubbles!": "2026-03-19T21:22:58.401Z",
-    "Listening to the Ocean's Heartbeat!": "2026-03-19T21:22:58.401Z"
+    "Listening to the Ocean's Heartbeat!": "2026-03-19T21:22:58.401Z",
+    "Waving Hello to Frens in Other Oceans!": "2026-03-19T21:23:43.085Z",
+    "Finding How Frens Show Their True Colors!": "2026-03-19T21:23:43.086Z",
+    "Teaching Smart Fishies New Tricks!": "2026-03-19T21:23:43.086Z"
   },
   "targetTypes": {
     "Solana wallet communities, user support forums for wallets, communities discussing self-custody.": "2026-03-19T00:52:28.075Z",
@@ -97,6 +100,9 @@
     "Solana developer communities focused on composability, protocol integration, modular dApp architecture, or projects that build extensively on other existing Solana protocols.": "2026-03-19T09:22:04.472Z",
     "Solana communities discussing transaction ordering, MEV (Maximal Extractable Value) mitigation strategies, validator sequencing fairness, and advanced mempool designs.": "2026-03-19T09:22:58.401Z",
     "Solana developer communities, research groups on blockchain scalability, projects building with compressed NFTs (cNFTs), and discussions around optimizing on-chain data storage costs.": "2026-03-19T09:22:58.401Z",
-    "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.": "2026-03-19T09:22:58.401Z"
+    "Solana infrastructure monitoring communities, teams developing real-time network health dashboards, incident response groups, and analytics providers specializing in cluster diagnostics.": "2026-03-19T09:22:58.401Z",
+    "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).": "2026-03-19T09:23:43.086Z",
+    "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).": "2026-03-19T09:23:43.086Z",
+    "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).": "2026-03-19T09:23:43.086Z"
   }
 }

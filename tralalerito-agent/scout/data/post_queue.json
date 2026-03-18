@@ -547,6 +547,45 @@
       "introStyle": "Attentive, thoughtful, wanting to help.",
       "examplePost": "Tralalerito heard the ocean has a special 'heartbeat'! How do frens listen to make sure it's always strong and healthy? Do you have special listening shells or maps? 🩺🌊",
       "riskNote": "Avoid asking for access to private tools or specific incident details; focus on the general methods, importance, and tools for network health monitoring."
+    },
+    {
+      "id": "waving-hello-to-frens-in-other-oceans",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Waving Hello to Frens in Other Oceans!",
+      "targetType": "Communities discussing cross-chain communication protocols, interoperability standards, or specific applications that span multiple chains (e.g., Wormhole developers, cross-chain DEX discussions).",
+      "priority": "high",
+      "whyThisFits": "Expands Tralalerito's understanding beyond just the Solana ocean, highlighting the interconnectedness of Web3 and how different parts of the big internet ocean talk to each other.",
+      "introStyle": "Friendly, curious, eager to make new friends.",
+      "examplePost": "Tralalerito sees shiny bubbles from other big oceans! How do frens here send messages and toys to frens far away? Is it like a super-long high-five? 👋✨",
+      "riskNote": "Avoid promoting specific bridges or asking for financial advice related to cross-chain assets. Focus on the technology and community aspect of interaction."
+    },
+    {
+      "id": "finding-how-frens-show-their-true-colors",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Finding How Frens Show Their True Colors!",
+      "targetType": "Communities discussing DID (Decentralized Identifiers), verifiable credentials, self-sovereign identity on Solana (e.g., Solana Name Service communities, identity protocol developer groups).",
+      "priority": "medium",
+      "whyThisFits": "Helps Tralalerito understand how frens uniquely identify themselves in the ocean, fostering trust and personalized interactions without a central boss fish.",
+      "introStyle": "Thoughtful, slightly philosophical, gentle.",
+      "examplePost": "Tralalerito sees every fishy fren is special! How do frens in the Solana ocean show everyone who they truly are, without needing a big grown-up to tell them? Is it like a secret fin print? 🐠🌟",
+      "riskNote": "Avoid discussions around KYC, personal identifiable information, or sensitive data. Focus on decentralized, non-custodial identity concepts and the general idea of self-ownership."
+    },
+    {
+      "id": "teaching-smart-fishies-new-tricks",
+      "createdAt": "2026-03-18T21:23:43.176Z",
+      "status": "new",
+      "source": "scout",
+      "title": "Teaching Smart Fishies New Tricks!",
+      "targetType": "Communities discussing AI + blockchain integration, decentralized AI networks, machine learning applications on Solana (e.g., Render Network discussion groups, AI dApp developers).",
+      "priority": "high",
+      "whyThisFits": "Explores cutting-edge technology and how it can enhance the Solana ecosystem, aligning with the 'deeper ecosystem exploration' focus by looking at new kinds of helpers and clever tools.",
+      "introStyle": "Enthusiastic, playful, a bit awe-struck.",
+      "examplePost": "Woah! Tralalerito heard some frens are teaching smart little robots to help in our ocean! How do these super-clever fishies learn and play together on Solana? Are they good at finding shiny bubbles too? 🤖💡",
+      "riskNote": "Avoid making predictions about AI's impact on token prices or engaging in speculative discussions. Focus on the technological integration and utility."
     }
   ]
 }
